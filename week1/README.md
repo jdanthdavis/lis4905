@@ -33,7 +33,7 @@
     3. **Clone this course repo:**  
     You can do **anything** you want--**except** to the directories and files that I create!
       
-    4. **Everyone**, create a sub-directory in the repo's ***root*** directory:  
+    4. **Everyone**, create a sub-directory in the repo's ***projects*** directory:  
         a. Using ***yourfsuid*** in lower-case, and  
         b. Include a **README.md** file, ***with SOME CONTENT!***.  
       
