@@ -11,3 +11,4 @@ Welcome to Rachel's (rah18b) subdirectory!
 Log your visit here: 
 Name				|Date		|Time
 -------------------------------------------------------
+Phil Bowman			2021-05-15	2:29pm
