@@ -1,4 +1,4 @@
-* Links to team members' repos and projects
+# Links to team members' repos and projects
 
 - [Sebastian Angel-Riano:](sa17d/README.md "Sebastian's repo") sa17d@my.fsu.edu
 - [Alexander Boehm:](ab16m/README.md "Alexander's repo") ab16m@my.fsu.edu
