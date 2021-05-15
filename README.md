@@ -20,25 +20,25 @@
 
 ## **Team members - Summer 21:**
 
-    * [Sebastian Angel-Riano:](./projects/sa17d/README.md "Sebastian's repo")
-    * [Alexander Boehm:](./projects/ab16m/README.md "Alexander's repo")
-    * [Philip Bowman:](./projects/pmb18c/README.md "Philip's repo")
-    * [Justin Davis:](./projects/jd19z/README.md "Justin's repo")
-    * [Rachel Hester:](./projects/rah18b/README.md "Rachel's repo")
-    * [Bryan Humphries:](./projects/bmh18v/README.md "Bryan's repo")
-    * [Mitchell Mujwit:](./projects/mm19ch/README.md "Mitchell's repo")
-    * [Andrew Vargas:](./projects/amv19d/README.md "Andrew's repo")
+    * [Sebastian Angel-Riano:](projects/sa17d/README.md "Sebastian's repo")
+    * [Alexander Boehm:](projects/ab16m/README.md "Alexander's repo")
+    * [Philip Bowman:](projects/pmb18c/README.md "Philip's repo")
+    * [Justin Davis:](projects/jd19z/README.md "Justin's repo")
+    * [Rachel Hester:](projects/rah18b/README.md "Rachel's repo")
+    * [Bryan Humphries:](projects/bmh18v/README.md "Bryan's repo")
+    * [Mitchell Mujwit:](projects/mm19ch/README.md "Mitchell's repo")
+    * [Andrew Vargas:](projects/amv19d/README.md "Andrew's repo")
 
 **Links match subdirectory paths above:**
 
-- [Sebastian Angel-Riano:](./projects/sa17d/README.md "Sebastian's repo") sa17d@my.fsu.edu
-- [Alexander Boehm:](./projects/ab16m/README.md "Alexander's repo") ab16m@my.fsu.edu
-- [Philip Bowman:](./projects/pmb18c/README.md "Philip's repo") pmb18c@my.fsu.edu
-- [Justin Davis:](./projects/jd19z/README.md "Justin's repo") jd19z@my.fsu.edu
-- [Rachel Hester:](./projects/rah18b/README.md "Rachel's repo") rah18b@my.fsu.edu
-- [Bryan Humphries:](./projects/bmh18v/README.md "Bryan's repo") bmh18v@my.fsu.edu
-- [Mitchell Mujwit:](./projects/mm19ch/README.md "Mitchell's repo") mm19ch@my.fsu.edu
-- [Andrew Vargas:](./projects/amv19d/README.md "Andrew's repo") amv19d@my.fsu.edu
+- [Sebastian Angel-Riano:](projects/sa17d/README.md "Sebastian's repo") sa17d@my.fsu.edu
+- [Alexander Boehm:](projects/ab16m/README.md "Alexander's repo") ab16m@my.fsu.edu
+- [Philip Bowman:](projects/pmb18c/README.md "Philip's repo") pmb18c@my.fsu.edu
+- [Justin Davis:](projects/jd19z/README.md "Justin's repo") jd19z@my.fsu.edu
+- [Rachel Hester:](projects/rah18b/README.md "Rachel's repo") rah18b@my.fsu.edu
+- [Bryan Humphries:](projects/bmh18v/README.md "Bryan's repo") bmh18v@my.fsu.edu
+- [Mitchell Mujwit:](projects/mm19ch/README.md "Mitchell's repo") mm19ch@my.fsu.edu
+- [Andrew Vargas:](projects/amv19d/README.md "Andrew's repo") amv19d@my.fsu.edu
 
 
 ## **Course Textbook (Required):**
