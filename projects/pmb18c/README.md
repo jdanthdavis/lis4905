@@ -17,6 +17,6 @@
          \       /
  
 log your name and date and time that you visited!
-<br>*Name				|Date		|Time*
-<br>------------------------------------------------------
+<br>*Name				 Date		 Time*
+<br>----------------------------------------------------------
 <br>Rachel Hester			 5/14/21	 4:26PM
