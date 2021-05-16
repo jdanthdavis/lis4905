@@ -1,4 +1,4 @@
-Welcome to Rachel's (rah18b) subdirectory!
+*Welcome to Rachel's (rah18b) subdirectory!*
 
  /\_/\  (
  ( ^.^ ) _)
