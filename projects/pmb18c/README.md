@@ -1,5 +1,5 @@
 # welcome to pmb18c sub directory!
-## please view but do not antagonize my poor txt document. it dindu nuffin
+## please view but do not antagonize my poor md document. it dindu nuffin
              *     ,MMM8&&&.            *
                   MMMM88&&&&&    .
                  MMMM88&&&&&&&
