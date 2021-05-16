@@ -3,6 +3,7 @@
 ## **Course Resources:**
 - [Class Session and Team Meetings](https://us.bbcollab.com/guest/75628214e3f345a4a19cb46fa0dbb42c)
 - [Development Resources](resources/README.md "Development Resources")
+- [Projects](projects/README.md "Projects")
 
 ## **Weekly Requirements:**
 [Week1](week1/README.md "Week1") * [Week2](week2/README.md "Week2") * [Week3](week3/README.md "Week3")
