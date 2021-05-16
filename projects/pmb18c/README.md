@@ -1,5 +1,5 @@
-welcome to pmb18c subdirectory
-please view but do not antagonize my poor txt document. it dindu nuffin
+## welcome to pmb18c sub directory!
+# please view but do not antagonize my poor txt document. it dindu nuffin
              *     ,MMM8&&&.            *
                   MMMM88&&&&&    .
                  MMMM88&&&&&&&
@@ -22,6 +22,6 @@ please view but do not antagonize my poor txt document. it dindu nuffin
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 log your name and date and time that you visited!
-Name				|Date		|Time
+*Name				|Date		|Time*
 -------------------------------------------------------
 Rachel Hester			5/14/21		4:26PM
