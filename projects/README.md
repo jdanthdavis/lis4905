@@ -10,7 +10,9 @@
 - [Andrew Vargas:](amv19d/README.md "Andrew's repo") amv19d@my.fsu.edu
 
 ## Team Git Practice
+
 [Team Work: One File](index.html "Team Git Practice") Requirements:  
+
 - Open index.html in "projects" subdirectory, and follow instructions.
 - Add module, naming it with ***yourfsuid***, including some ***content***.
 - Note: you can *also* add content to other team members' modules.
