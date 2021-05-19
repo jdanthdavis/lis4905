@@ -13,6 +13,7 @@
 
 [Team Work: One File](index.html "Team Git Practice") Requirements:  
 
+- ***Note***: **ALL** files should be modified ***LOCALLY***--**NOT** in Bibucket!
 - Open index.html in "projects" subdirectory, and follow instructions.
 - Add module, naming it with ***yourfsuid***, including some ***content***.
 - Note: you can *also* add content to other team members' modules.
