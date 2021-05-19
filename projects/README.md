@@ -1,4 +1,4 @@
-# Links to team members' repos and projects
+# Links to Team Members' Repos and Projects
 
 - [Sebastian Angel-Riano:](sa17d/README.md "Sebastian's repo") sa17d@my.fsu.edu
 - [Alexander Boehm:](ab16m/README.md "Alexander's repo") ab16m@my.fsu.edu
@@ -9,3 +9,9 @@
 - [Mitchell Mujwit:](mm19ch/README.md "Mitchell's repo") mm19ch@my.fsu.edu
 - [Andrew Vargas:](amv19d/README.md "Andrew's repo") amv19d@my.fsu.edu
 
+## Team Git Practice
+[Team Work: One File](index.html "Team Git Practice") Requirements:  
+- Open index.html in "projects" subdirectory, and follow instructions.
+- Add module, naming it with ***yourfsuid***, including some ***content***.
+- Note: you can *also* add content to other team members' modules.
+- Correct **any** errors incurred as a ***TEAM***.
