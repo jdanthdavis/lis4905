@@ -12,14 +12,10 @@ Leave Your Signature and Time
 **1.** Sebastian Angel-Riano 5/17/21    15:57
 ------------------------------------
 <br>
-<<<<<<< HEAD
-**2.** Mitchell Mujwit 5/19/21 5:50PM
-=======
-**2.** Rachel Hester 5/19/21 5:50PM
->>>>>>> 240cedb5edf06d5e38d0d44cad8cd79fcc0469cd
+**2.** Mitchell Mujwit 5/19/21 5:50pm
 ------------------------------------
 <br>
-**3.** 
+**3.**  Rachel Hester 5/19/21 5:49PM
 ------------------------------------
 <br>
 **4.** 
