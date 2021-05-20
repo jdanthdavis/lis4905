@@ -26,3 +26,6 @@ Leave Your Signature and Time
 <br>
 **6.** Justin Davis 5/20/21 11:49AM
 ------------------------------------
+<br>
+**7.** Andrew Vargas 5/20/21 12:09PM
+------------------------------------

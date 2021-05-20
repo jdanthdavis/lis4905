@@ -24,3 +24,4 @@ log your name and date and time that you visited!
 4. Sebastian Angel-Riano 	5/17/21    	15:57<br>
 5. Alexander Boehm 		5/19/21 	12:50AM<br>
 6. Bryan Humphries		5/20/21		11:39 AM<br>
+7. Andrew Vargas      5/20/21   12:12PM<br>
