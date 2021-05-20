@@ -18,3 +18,4 @@
 - Add module, naming it with ***yourfsuid***, including some ***content***.
 - Note: you can *also* add content to other team members' modules.
 - Correct **any** errors incurred as a ***TEAM***.
+- **Note**: When completed, ***everyone*** should have **everyone else's** changes!

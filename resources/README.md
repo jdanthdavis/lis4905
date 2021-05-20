@@ -39,6 +39,8 @@
            ```
         <firstinitiallastname>_<branch-type>_<branch-name>  
            ```  
-        2. [Microsoft's Branching Strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops            "Microsoft's Branching Strategy")
+        2. [Microsoft's Branching Strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops "Microsoft's Branching Strategy")  
+        3. [git log graph examples](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-use-the-git-log-graph-command "git log graph examples")  
+        4. [git log graph examples (video)](https://www.youtube.com/watch?v=OOHjsjX4XJ4 "git log graph examples (video)")
 9. **[Git Guide](git_guide.md)**  
 10. [Markdown](https://daringfireball.net/projects/markdown/dingus "Markdown Practice")
