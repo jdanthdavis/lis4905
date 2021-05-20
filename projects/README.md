@@ -15,7 +15,7 @@
 
 - ***Note***: **ALL** files should be modified ***LOCALLY***--**NOT** in Bibucket!
 - Open index.html in "projects" subdirectory, and follow instructions.
-- Add module, naming it with ***yourfsuid***, including some ***content***.
+- Add module, naming it with ***firstinitiallastname***, including some ***content***.
 - Note: you can *also* add content to other team members' modules.
 - Correct **any** errors incurred as a ***TEAM***.
 - **Note**: When completed, ***everyone*** should have **everyone else's** changes!
