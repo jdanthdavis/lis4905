@@ -7,3 +7,5 @@
 3. Justin Davis, 12:14PM on 5/17/21
 4. Sebastian Angel-Riano 5/17/21 
 5. Alexander Boehm 12:47AM on 5/19/21
+6. Bryan Humphries 11:39 AM 5/20/21
+7. Andrew Vargas 12:11PM 5/20/21
