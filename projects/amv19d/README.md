@@ -9,3 +9,7 @@
 5. Alexander Boehm 		5/19/21 	12:50AM<br>
 6. Bryan Humphries		5/20/21		11:39 AM<br>
 7. Andrew Vargas      5/20/21   12:12PM<br>
+
+Screenshot of Tip Calculator            |  Screenshot of VScode            
+:-------------------------:|:-------------------------:
+![tip_calculator_IDLE Screenshot](img/tip_calculator_IDLE.png)  |  ![VS_code](img/tip_calculator_VScode.png)  
