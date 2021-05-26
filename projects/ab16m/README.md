@@ -28,4 +28,8 @@ Leave Your Signature and Time
 ------------------------------------
 <br>
 **7.** Andrew Vargas 5/20/21 12:09PM
-------------------------------------
+------------------------------------  
+<br>
+
+# Here's a link to my tip_calculator README
+[Tip_calculator](tip_calculator/README.md "tip_calc_README")
