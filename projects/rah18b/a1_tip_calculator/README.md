@@ -1,8 +1,10 @@
 *Welcome to Rachel's Tip Calculator ReadMe*
 
-1. Screenshot of IDLE               |  Screenshot of VSCode                    
-:---------------------------------:|:--------------------------------------------------:|
-![IDLE Screenshot](img/A1_IDLE.png) |  ![VSCode Screenshot](img/VSCode_A1.png)  | 
+1. Screenshot of IDLE                                  
+![IDLE Screenshot](img/A1_IDLE.png) 
+
+2. Screenshot of VSCode
+![VSCode Screenshot](img/VSCode_A1.png)
 
 
 *Links to Notebook and Python File Below:*

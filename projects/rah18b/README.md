@@ -18,3 +18,9 @@ Name				|Date		|Time
 5. Alexander Boehm       5/17/21    12:45AM
 6. Bryan Humphries		2/20/21		11:40AM
 7. Andrew Vargas		5/20/21		12:12:PM
+
+
+*Assignment ReadMe List:*
+
+1. [A1 ReadMe](a1_tip_calculator/README.md)
+
