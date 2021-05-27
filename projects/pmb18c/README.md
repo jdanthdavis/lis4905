@@ -1,23 +1,11 @@
-# welcome to pmb18c sub directory!
-## please view but do not antagonize my poor md document. it dindu nuffin
-             *     ,MMM8&&&.            *
-                  MMMM88&&&&&    .
-                 MMMM88&&&&&&&
-     *           MMM88&&&&&&&&
-                 MMM88&&&&&&&&
-                 'MMM88&&&&&&'
-                   'MMM8&&&'      *
-          |\___/|
-          )     (             .              '
-         =\     /=
-           )===(       *
-          /     \
-          |     |
-         /       \ 
-         \       /
- 
-log your name and date and time that you visited!
-<br>----------------------------------------------------------<br>
-1. Rachel Hester			 5/14/21	 4:26PM
-2. Mitchell Mujwit     5/16/21   2:49PM
-3. Justin Davis        5/17/21   12:14PM
+# LIS4905
+## Phil Bowman
+### LIS4905 Requirements
+
+* Course Work Links: *
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+ - Install Python
+ - Install Visual Studio Code
+ - Create tip_calculator
+ - Upload screenshots of running tip calculator in IDLE, Windows CMD, and VS code
+

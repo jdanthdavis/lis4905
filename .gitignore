@@ -1,1 +1,24 @@
+# Auto-generated Python folders w/.pyc files #
+###################
+__pycache__
+.ipynb_checkpoints
+
+# Compiled and source Python files #
+###################
+*.py
+*.pyc
+
+# Jupyter notebook files #
+###################
+*.ipynb
+
+# OS/Application generated files #
+######################
 .DS_Store
+.DS_Store?
+._*
+*.lock
+
+# paint.net native files #
+######################
+*.pdn
