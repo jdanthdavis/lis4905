@@ -21,5 +21,15 @@ Leave Your Signature and Time
 **4.**  Phil Bowman 5/19/21 7:25PM 
 ------------------------------------
 <br>
-**5.** 
+**5.** Bryan Humphries 5/20/21 11:37AM
 ------------------------------------
+<br>
+**6.** Justin Davis 5/20/21 11:49AM
+------------------------------------
+<br>
+**7.** Andrew Vargas 5/20/21 12:09PM
+------------------------------------  
+<br>
+
+# Here's a link to my tip_calculator README
+[Tip_calculator](tip_calculator/README.md "tip_calc_README")
