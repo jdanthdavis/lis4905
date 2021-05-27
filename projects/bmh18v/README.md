@@ -14,16 +14,16 @@
 
 #### Screenshot of *a1_tip_calculator* application running (IDLE):
 
-![Python Installation Screenshot IDLE](Week2_tip_calc/a1_tip_calculator_idle.png "A1 IDLE Screenshot")
+![Python Installation Screenshot IDLE](Week2_tip_calc/img/a1_tip_calculator_idle.png "A1 IDLE Screenshot")
 
 
 #### Screenshot of *a1_tip_calculator* application running (Visual Studio Code):
-![Python Installation Screenshot VS Code](Week2_tip_calc/a1_tip_calculator_vs_code.png "A1 VS Code Screenshot")
+![Python Installation Screenshot VS Code](Week2_tip_calc/img/a1_tip_calculator_vs_code.png "A1 VS Code Screenshot")
 
 
 #### A1 Jupyter Notebook:
 
-![tip_calculator.ipynb](img/jupyternotebook.png "A1 Jupyter Notebook")
+![tip_calculator.ipynb](Week2_tip_calc/img/jupyternotebook.png "A1 Jupyter Notebook")
 
-* Link to A1 .ipynb file: [tip_calculator.ipynb](Week2_tip_calc/tip_calculator.ipynb "A1 Jupyter Notebook")
+* Link to A1 .ipynb file: [tip_calculator.ipynb](docs/tip_calculator.ipynb "A1 Jupyter Notebook")
 
