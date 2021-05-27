@@ -11,7 +11,7 @@
 6. Bryan Humphries 11:39 AM 5/20/21 </br>
 7. Andrew Vargas 12:11PM 5/20/21 </br>
 
-# Screenshot of tip calculator:
+# A1:
 
 | Calculattor in jupyter                | Calculator in vscode|
 |---------------------------------------|---------------------|
