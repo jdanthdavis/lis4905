@@ -12,4 +12,9 @@
 7. Andrew Vargas 12:11PM 5/20/21 </br>
 
 # Screenshot of tip calculator:
-![Tip_calculator](calculatorImg.png)
+
+| Calculattor in jupyter                | Calculator in vscode|
+|---------------------------------------|---------------------|
+|![Tip_calculator](calculatorImg.png)  | ![Code](code.png)   |
+
+[Jupyter file](calculator.ipynp)
