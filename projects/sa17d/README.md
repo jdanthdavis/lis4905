@@ -21,7 +21,7 @@
 4. tip_calc
 5. screenshot installs
 6. push
-
+7. tested new workflow
 
 ### Delivs
 
