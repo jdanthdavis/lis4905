@@ -9,7 +9,8 @@
 
 ### Week 3 Requirements:
 
-1. **Backward-engineer screenshot below:** README.md file should include the following items:
+1. ***Chs. 6-10 in Python textbook.***
+2. **Backward-engineer screenshot below:** README.md file should include the following items:
     1. **Screenshot of your Jupyter notebook (see below);**
     2. Upload .ipynb file and create link in README.md;  
     **Note:** *Before* uploading .ipynb file, *be sure* to do the following actions from **Kernal** menu:  
@@ -20,5 +21,5 @@
 
 ![Week3 Requirements](../img/week3.png "Week3 Requirements")
 
-2. [Week4 Requirements](../week4/README.md "Week4")
+3. [Week4 Requirements](../week4/README.md "Week4")
 

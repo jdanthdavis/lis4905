@@ -10,8 +10,9 @@
 ### Week 2 Requirements:
 
 1. [Team Work: One File](../projects/README.md#team-git-practice "Team Git Practice") Requirements
-2. Distributed Version Control (**only** if Git not installed): [Git and Bitbucket](http://www.qcitr.com/usefullinks.htm#lesson3b "Git and Bitbucket")
-3. Development Installations:
+2. ***Chs. 1-5 in Python textbook.***
+3. Distributed Version Control (**only** if Git not installed): [Git and Bitbucket](http://www.qcitr.com/usefullinks.htm#lesson3b "Git and Bitbucket")
+4. Development Installations:
     1. Anaconda Individual FREE version (includes Python, R, etc.):  
         [https://docs.anaconda.com/anaconda/](https://docs.anaconda.com/anaconda/)  
         [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
@@ -37,7 +38,7 @@
     > (Note: recent Win 10 does not assume you have privileges to install or update. If the command fails, right-click on the Anaconda Command Prompt,  
     > choose "More", choose "Run as administrator")
    
-4. **Test Installation:** README.md file should include the following items:
+5. **Test Installation:** README.md file should include the following items:
     1. **Screenshot of a1_tip_calculator application running using IDLE (see below);**
     2. **Screenshot of a1_tip_calculator application running using Visual Studio Code (see below);**
     3. Upload A1 .ipynb file and create link in README.md;  
@@ -49,4 +50,4 @@
     
     **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
 
-5. [Week3 Requirements](../week3/README.md "Week3")
+6. [Week3 Requirements](../week3/README.md "Week3")
