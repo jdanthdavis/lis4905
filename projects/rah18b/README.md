@@ -17,4 +17,14 @@ Name				|Date		|Time
 4. Sebastian Angel-Riano 5/17/21    15:57
 5. Alexander Boehm       5/17/21    12:45AM
 6. Bryan Humphries		2/20/21		11:40AM
+<<<<<<< HEAD
 7. Andrew Vargas		5/20/21		12:12:PM
+=======
+7. Andrew Vargas		5/20/21		12:12:PM
+
+
+*Assignment ReadMe List:*
+
+1. [A1 ReadMe](a1_tip_calculator/README.md)
+
+>>>>>>> 9f06b0fe3cb42827bbc35484a2fe78a2cd4d1eff

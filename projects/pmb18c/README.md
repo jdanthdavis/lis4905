@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# LIS4905
+## Phil Bowman
+### LIS4905 Requirements
+
+* Course Work Links: *
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+ - Install Python
+ - Install Visual Studio Code
+ - Create tip_calculator
+ - Upload screenshots of running tip calculator in IDLE, Windows CMD, and VS code
+
+=======
 # welcome to pmb18c sub directory!
 ## please view but do not antagonize my poor md document. it dindu nuffin
              *     ,MMM8&&&.            *
@@ -25,3 +38,4 @@ log your name and date and time that you visited!
 5. Alexander Boehm 		5/19/21 	12:50AM<br>
 6. Bryan Humphries		5/20/21		11:39 AM<br>
 7. Andrew Vargas      5/20/21   12:12PM<br>
+>>>>>>> 9f06b0fe3cb42827bbc35484a2fe78a2cd4d1eff
