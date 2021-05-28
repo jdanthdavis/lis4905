@@ -1,4 +1,25 @@
-*Welcome to Rachel's Tip Calculator ReadMe*
+*Welcome to Rachel's Week 2 ReadMe.MD*
+
+>
+
+# LIS4905 Extensible Enterprise Solutions
+
+## Rachel Hester
+
+### Week 2 Requirements:
+
+*Deliverables:*
+
+1. Team Work: One File
+2. Distributed Version Control (only if Git not installed)
+3. Development Installations
+4. Test Installation
+
+> 
+> 
+> 
+
+#### Assignment Screenshots:
 
 1. Screenshot of IDLE                                  
 ![IDLE Screenshot](img/A1_IDLE.png) 
