@@ -20,13 +20,42 @@
 [comment]: <> (*Course Work Links:*)
 
 1. [Week 1 README.md](Week1/README.md "My Week 1 README.md file")
-    - N/A
+    - Introductions
+    - Course Overview
+    - *Meat as a team!*
+    - Review:
+        - Git and Git WorkFlow Resources
+        - Git Guide for any assistance needed!
+        - *Research* your own solutions!
+    - *Clone this course repo:*
+    - *Everyone*, create a sub-directory in the repo's *projects* directory:
+        - Using *yourfsuid* in lower-case, and
+        - include a *README.md* file, *with SOME CONTENT!*
+    - *Fetch* or *pull* the updated repo
 
 2. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
-    - N/A
+    - Team Work: One File Requirements
+    - *Chs. 1-5 in Python textbook.*
+    - Development Installations:
+        - Anaconda Individual FREE version (includes Python, R, etc.):
+        - *BE SURE* to get Python 3+ version. *Note:* Don't need to register, if you don't want to.
+        - Verify installation
+        - *Test Installation:* README.md file should include the following items:
+            - *Screenshot of a1_tip_calculator application running using IDLE (see below);*
+            - *Screenshot of a1_tip_calculator application running using Visual Studio Code (see below);*
+            -  Upload A1 .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
 3. [Week 3 README.md](Week3/README.md "My Week 3 README.md file")
-    - N/A
+    - *Chs. 6-10 in Python textbook.*
+    - *Backward-engineer screenshot:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook;*
+        - Upload .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
 4. [Week 4 README.md](Week4/README.md "My Week 4 README.md file")
     - N/A
