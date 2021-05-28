@@ -1,12 +1,9 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
-
 # LIS4905 Directed Independent Study
 
 ## Justin Davis
 
 *Log your visit*
     Name |       Date |  Time|
---------------------------------
 1. Rachel Hester 5/17/21 1:56PM
 2. Bryan Humphries 5/17/21 3:20PM
 3. Mitchell Mujwit 5/19/21 5:50PM
