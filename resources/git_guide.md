@@ -226,17 +226,48 @@ Steps below make sure your **local** *develop* branch is up to date with your **
 2. **develop**: This branch will be the "live" version of your software.   
 If you are working on a team, this is the branch that developers will push to on a regular basis with new features.
 3. **feature**: Can be *many*** "feature" branches--depending upon team size.  
-**Note:** Each "*feature*" branch **MUST** be tested, prior to pushing to "develop" branch.  
-Also, "*feature*" branch can be a new feature, or a fix.
+**Note:** Each "*feature*" branch **MUST** be tested, prior to merging/pushing to "develop** branch.  
+***Features should *never* interact directly with master!***  
+For us, "*feature*" branch can be new feature, or fix.
 
+### Pull requests
+1. Why? Tell others about changes you've pushed to a branch in a remote repo.  
+[About pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests "About pull requests")  
+2. Provide opportunities for code review!
+3. Example: Submit your pull request making sure to select  ***develop*** as branch for merging!
+   
 ### Some important commands:
-- git status
+- git status # displays state of working directory and staging area
+- git branch # displays local branches
+- git branch -r # displays remote branches
 - git branch -a # displays *all* branches
 - git branch -vv # doubly verbose (displays local/remote associations)
 - git log
   **Note:** **Very** important to know where HEAD is pointing!  
   **Example:** (HEAD -> master, origin/master)
 - git log --oneline --decorate --graph --all (look em up! ;)
+- git fetch # brings in new data from remote repository, but does *not* integrate!
+- git pull (like git fetch and git merge) # brings local branch up-to-date with its remote branch
+- If remote branch deleted, but still appears in branch -a:
+- git remote prune origin # will remove all stale branches
+- git fetch -p (or git pull -p) # remote branches will be pruned  
+("Pruning" cleans up unreachable or "orphaned" Git objects.)
+- **git code letters**:
+    - A = added
+    - C = copied
+    - D = deleted
+    - M = modified
+    - R = renamed
+    - T: change in type
+    - U = updated but unmerged
+    - X: "unknown" change type (likely bug, report it)
+- **Remove folder/directory from remote repo, but *not* from local:**
+   ```
+   git rm -r --cached FolderName
+   git commit -m "Removed folder from remote repo"
+   git push
+   ```
+
 
 ### Example Git Work Flow (***ONLY*** do in ***your own*** practice repo):
    ```
