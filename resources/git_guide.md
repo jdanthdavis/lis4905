@@ -70,12 +70,13 @@ Updates files in working directory to match version stored in that branch.
    ```
 2. For our development use this format (**branch-type**="feat" or "fix"):
    ```
-   firstinitiallastname_branch-type_branch-name  
+   firstinitiallastname_branch-type_branch-name-id
+   Example: jdoe_feat_update-project-1
    ```
 
 
 ### 5. ***Do *ALL* work on feature branch(es)!***
-**Note:** *After** checking out **your** feature branch!  
+**Note:** ***After*** checking out **your** feature branch!  
 
 1. Do work, test and fix!
 
@@ -118,7 +119,7 @@ Steps below make sure your **local** *develop* branch is up to date with your **
    ```
    git status
    ```
-2. Switch to develop branch
+2. Switch to develop branch (if necessary)
    ```
    git checkout develop
    ```
@@ -215,7 +216,7 @@ Steps below make sure your **local** *develop* branch is up to date with your **
 3. Compare two (local) branches (displays all commits in branch2 that are *not* in branch1): ***must*** use *two* dots.
    ```
    git diff branch1..branch2
-   Example: git diff develop branchname
+   Example: git diff develop..branchname
    ```
 
 
