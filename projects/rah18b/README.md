@@ -7,6 +7,12 @@
 				(__d b__)
 
 
+# LIS4905 - Extensible Enterprise Solutions
+
+## Rachel Hester
+
+
+*Week 1 Log*
 
 Log your visit here: 
 Name				|Date		|Time
@@ -17,14 +23,31 @@ Name				|Date		|Time
 4. Sebastian Angel-Riano 5/17/21    15:57
 5. Alexander Boehm       5/17/21    12:45AM
 6. Bryan Humphries		2/20/21		11:40AM
-<<<<<<< HEAD
-7. Andrew Vargas		5/20/21		12:12:PM
-=======
 7. Andrew Vargas		5/20/21		12:12:PM
 
+### LIS4905 Requirements:
 
-*Assignment ReadMe List:*
+*Course Work Links:*
 
-1. [A1 ReadMe](a1_tip_calculator/README.md)
+2. [Week2 README.md](a1_tip_calculator/README.md)
+- Team Work: One File Requirements
+    - *Chs. 1-5 in Python textbook.*
+    - Development Installations:
+        - Anaconda Individual FREE version (includes Python, R, etc.):
+        - *BE SURE* to get Python 3+ version. *Note:* Don't need to register, if you don't want to.
+        - Verify installation
+        - *Test Installation:* README.md file should include the following items:
+            - *Screenshot of a1_tip_calculator application running using IDLE (see below);*
+            - *Screenshot of a1_tip_calculator application running using Visual Studio Code (see below);*
+            -  Upload A1 .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
->>>>>>> 9f06b0fe3cb42827bbc35484a2fe78a2cd4d1eff
+3. [Week3 README.md](a2/README.md "My A2 README.md file")
+
+
+
+
+
+
