@@ -242,13 +242,13 @@ For us, "*feature*" branch can be new feature, or fix.
 - git branch -r # displays remote branches
 - git branch -a # displays *all* branches
 - git branch -vv # doubly verbose (displays local/remote associations)
-- git log
+- git log  
   **Note:** **Very** important to know where HEAD is pointing!  
   **Example:** (HEAD -> master, origin/master)
-- git log --oneline --decorate --graph --all (look em up! ;)
+- git log --oneline --decorate --graph --all # look 'em up! ;)
 - git fetch # brings in new data from remote repository, but does *not* integrate!
-- git pull (like git fetch and git merge) # brings local branch up-to-date with its remote branch
-- If remote branch deleted, but still appears in branch -a:
+- git pull # like git fetch and git merge; brings local branch up-to-date with its remote branch
+- If remote branch deleted, but still appears in "git branch -a":
 - git remote prune origin # will remove all stale branches
 - git fetch -p (or git pull -p) # remote branches will be pruned  
 ("Pruning" cleans up unreachable or "orphaned" Git objects.)
@@ -258,9 +258,9 @@ For us, "*feature*" branch can be new feature, or fix.
     - D = deleted
     - M = modified
     - R = renamed
-    - T: change in type
+    - T = change in type
     - U = updated but unmerged
-    - X: "unknown" change type (likely bug, report it)
+    - X = "unknown" change type (likely bug, report it)
 - **Remove folder/directory from remote repo, but *not* from local:**
    ```
    git rm -r --cached FolderName
