@@ -16,7 +16,7 @@
 
 *.ipynb File*
 
-[tip_ipynb File](docs/graphing_stocks_notebook.ipynb)
+[stocks_ipynb File](docs/graphing_stocks_notebook.ipynb)
 
 *Graphing Stocks Code*:
 
