@@ -1,4 +1,4 @@
-# **Git Guide**
+# **Git Guide - Workflow**
 
 ### ***Get Initial Work!***
 1. Clone repo (if available, creates local repo)
@@ -8,14 +8,14 @@
 
 **Or...**
 
-2. Create repo (**It is already available**--so do ***NOT*** create a new one!)  
+2. Create repo - ***YOU*** own it! (**For our work, it is already available**--so do ***NOT*** create a new one!)  
 **However,** if it were **not** already available--create a new one: [Remote Repos: Initial push](http://www.qcitr.com/usefullinks.htm#lesson6 "Remote Repos: Initial push")
 
-### 1. ***Create develop Branch from master***
+### 1. ***Create (or checkout) develop branch from master***
 **checkout:** Switch branches or restore working tree files.  
 Updates files in working directory to match version stored in that branch.
 
-1. Switch to master branch (or restore working tree files).
+1. Switch to master branch (or restores working tree files).
    ```
    git checkout master
    ```
@@ -26,7 +26,41 @@ Updates files in working directory to match version stored in that branch.
    ```
 
 
-### 2. ***Create feature Branch(es) from develop***
+### 2. ***Display all branches and local/remote branch tracking***
+
+1. Display all branches
+**Note:** -a option displays *all* branches!
+   ```
+   git branch -a
+   ```
+2. Check local/remote branch tracking
+   ```
+   git branch -vv   # doubly verbose (displays local/remote associations)
+   ```
+
+
+### 3. ***Set local/remote branch tracking***
+**Note:** *ONLY* set *develop* branch (*not* your other branches, or push other branches to remote repo)--also, master branch should already be set  
+
+1. If develop branch checked out: 
+   ```
+   git branch -u origin/develop
+   ```
+2. If *not* on develop branch:
+   ```
+   git branch -u origin/develop develop
+   ```
+3. Now, pushing and pulling simple!
+   ```
+   git pull or git push
+   ```
+4. Also, very helpful git status command displays state of working directory and staging area!
+   ```
+   git status
+   ```
+
+
+### 4. ***Create (or checkout) feature branch(es) from develop***
 "***feature***" branch can be a new feature, or a fix.  
 
 1. Switch to feature branch, -b option creates new branch, then checks out.  
@@ -36,54 +70,15 @@ Updates files in working directory to match version stored in that branch.
    ```
 2. For our development use this format (**branch-type**="feat" or "fix"):
    ```
-   <firstinitiallastname>_<branch-type>_<branch-name>  
-   ```
-3. Do work, test and fix!
-
-
-### 3. ***After feature Branch(es) Tested, merge into develop***
-**Note:** Each "*feature*" branch **MUST** be tested, prior to pushing to develop branch!  
-
-1. Switch to develop branch.
-   ```
-   git checkout develop
-   ```
-2. merge into develop
-   ```
-   git merge feature_branch
-   ```
-3. Test and fix!
-
-
-### 4. ***After develop Tested, merge into master***
-**Note:** "*develop*" branch **MUST** be tested, prior to pushing to master branch!  
-
-1. Switch to master branch.
-   ```
-   git checkout master
-   ```
-2. merge into master
-   ```
-   git merge develop
-   ```
-3. Test and fix!
-
-
-### 5. ***Cleanup!***
-**Note:** Remove any "*feature*" branches after successful merge into master branch!  
-
-1. Remove feature branch
-   ```
-   git branch -d feature_branch
+   firstinitiallastname_branch-type_branch-name  
    ```
 
 
-# ***Commiting and Pushing Changes (Your Work)!***
+### 5. ***Do *ALL* work on feature branch(es)!***
+**Note:** *After** checking out **your** feature branch!  
 
-### 1. ***Commit your changes to your local branch***
-Stage and commit **your** changes to **your** local branch *first*.
+1. Do work, test and fix!
 
-1. **Note:** This is done **after** checking out **your** feature branch!
 2. Stage changes
    ```
    git add .
@@ -93,15 +88,16 @@ Stage and commit **your** changes to **your** local branch *first*.
    git commit -m "your commit description"
    ```
 
-### 2. ***Get Latest Updates from develop Branch***
-Now that your changes are committed to your local branch, get latest updates from "develop" branch.  
-Steps make sure **your** local branch is up to date with "develop" branch before pushing **your** changes to remote repo!
 
-1. Switch to develop branch.
+### 6. ***Get latest updates from develop Branch***
+After your changes are committed to your local branch, get latest updates from "develop" branch.  
+Steps below make sure your **local** *develop* branch is up to date with your **remote** *develop* branch before pushing changes!
+
+1. Switch to develop branch
    ```
    git checkout develop
    ```
-2. Get latest changes from remote repo
+2. Get latest changes from remote develop branch
    ```
    git pull
    ```
@@ -113,11 +109,115 @@ Steps make sure **your** local branch is up to date with "develop" branch before
    ```
    git merge develop
    ```
-5. **After** testing/fixing, push your changes to remote repo
+
+
+### 7. ***After feature branch(es) tested, merge/push into develop***
+**Note:** Each "*feature*" branch **MUST** be tested, prior to pushing to develop branch!  
+
+1. Check current branch
+   ```
+   git status
+   ```
+2. Switch to develop branch
+   ```
+   git checkout develop
+   ```
+3. merge feature branch changes into develop
+   ```
+   git merge feature_branch
+   ```
+4. **Be sure** on develop branch!
+   ```
+   git status
+   ```
+5. **After** testing/fixing, push your changes to remote develop branch
    ```
    git push
    ```
-6. Submit your pull request on Bit Bucket making sure to select  ***develop*** as the branch for merging!
+
+
+### 8. ***DO ONLY IF YOU OWN REPO: After develop tested, merge/push into master***
+**Note:** ***Do NOT*** merge/push to master, ***UNLESS YOU OWN IT!***  
+**Note:** "*develop*" branch **MUST** be tested, prior to pushing to master branch!  
+
+1. Switch to master branch.
+   ```
+   git checkout master
+   ```
+2. merge develop into master
+   ```
+   git merge develop
+   ```
+4. **Be sure** on master branch!
+   ```
+   git status
+   ```
+5. **After** testing/fixing, push your changes to remote master branch
+   ```
+   git push
+   ```
+
+
+### 9. ***DON'T FORGET TO PUSH--see above!***
+**Note:** ***Do NOT*** merge/push to master, ***UNLESS YOU OWN IT! :)***
+
+1. Switch to develop, if necessary (*after* merging feature_branch into develop)
+   ```
+   git checkout develop
+   ```
+
+2. Push local develop to remote develop
+   ```
+   git push
+   ```
+
+3. Switch to master, if necessary (*after* merging develop into master)
+   ```
+   git checkout master
+   ```
+
+4. Push local master to remote master
+   ```
+   git push
+   ```
+
+### 10. ***Cleanup!***
+**Note:** Remove **ALL** "*feature*" branches (local *and* remote) after successful merge/push into master/develop branches!  
+
+1. Display all branches (-a option displays *all* branches)
+   ```
+   git branch -a
+   ```
+
+2. Delete ***local*** feature branch
+   ```
+   git branch -d feature_branch
+   ```
+
+3. Delete ***remote*** feature branch
+   ```
+   git branch -d -r origin/branchname
+   ```
+
+### 11. ***Comparing branches!***
+
+1. Compare local branch with its remote branch:
+   ```
+   git fetch
+   ```
+
+2. Then, diff branches
+   ```
+   git diff <local branch> <remote>/<remote branch>
+   Example: git diff develop origin/develop
+   ```
+
+3. Compare two (local) branches (displays all commits in branch2 that are *not* in branch1): ***must*** use *two* dots.
+   ```
+   git diff branch1..branch2
+   Example: git diff develop branchname
+   ```
+
 
 # Notes:
 ### Generally, **three** branch types:  
@@ -130,35 +230,14 @@ Also, "*feature*" branch can be a new feature, or a fix.
 
 ### Some important commands:
 - git status
-- git branch
-- git log  
+- git branch -a # displays *all* branches
+- git branch -vv # doubly verbose (displays local/remote associations)
+- git log
   **Note:** **Very** important to know where HEAD is pointing!  
   **Example:** (HEAD -> master, origin/master)
-- Also, git log --oneline --decorate --graph --all (look em up! ;)
+- git log --oneline --decorate --graph --all (look em up! ;)
 
-### Workflow model:
-1. git checkout master
-2. git checkout -b develop
-3. git checkout -b feature_branch  
-  # do work, test and fix!
-4. git checkout develop
-5. git merge feature_branch  
-  # test and fix!
-6. git checkout master
-7. git merge develop
-8. git branch -d feature_branch
-
-### Overall workflow:
-1. develop branch created from master
-2. feature branch(es) created from develop
-3. After feature branch(es) tested, merge into develop
-4. After develop tested, merge into master
-5. Delete feature branch(es)
-6. If issue in master, create feature (fix) branch from master
-7. When feature (fix) branch tested, merge into both develop and master
-8. Delete feature (fix) branch
-
-### Example Git Work Flow:
+### Example Git Work Flow (***ONLY*** do in ***your own*** practice repo):
    ```
    git init (initializes repo in current directory)
    touch myfile.txt (creates file w/o any content)
