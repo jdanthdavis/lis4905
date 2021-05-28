@@ -40,7 +40,7 @@ Updates files in working directory to match version stored in that branch.
 
 
 ### 3. ***Set local/remote branch tracking***
-**Note:** *ONLY* set *develop* branch (*not* your other branches, or push other branches to remote repo)--also, master branch should already be set  
+**Note:** *ONLY* set *develop* branch (*not* your other branches, or push other branches to remote repo)--also, master branch should already be set.  
 
 1. If develop branch checked out: 
    ```
@@ -89,7 +89,7 @@ Updates files in working directory to match version stored in that branch.
    ```
 
 
-### 6. ***Get latest updates from develop Branch***
+### 6. ***Get latest updates from develop branch***
 After your changes are committed to your local branch, get latest updates from "develop" branch.  
 Steps below make sure your **local** *develop* branch is up to date with your **remote** *develop* branch before pushing changes!
 
