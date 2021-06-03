@@ -11,15 +11,30 @@
 6. Bryan Humphries 11:39 AM 5/20/21 </br>
 7. Andrew Vargas 12:11PM 5/20/21 </br>
 
-<<<<<<< HEAD
-# Screenshot of tip calculator:
-![Tip_calculator](calculatorImg.png)
-=======
 # A1:
 
-| Calculattor in jupyter                | Calculator in vscode|
-|---------------------------------------|---------------------|
-|![Tip_calculator](calculatorImg.png)  | ![Code](code.png)   |
+| Calculattor in jupyter                | Calculator in vscode     |
+|---------------------------------------|--------------------------|
+|![Tip_calculator](img/calculatorImg.png)  | ![Code](img/code.png) |
 
 [Jupyter file](calculator.ipynp)
->>>>>>> 9f06b0fe3cb42827bbc35484a2fe78a2cd4d1eff
+
+# A2:
+
+
+### Data
+
+| AAPL                  | EBAY                  | MSFT                  |
+|-----------------------|-----------------------|-----------------------|
+|![AAPL](img/aapl.png)  | ![EBAY](img/ebay.png) | ![MSFT](img/msft.png) |
+
+### Charts
+
+| AAPL Plot                  | EBAY Plot                 | MSFT Plot                |
+|-----------------------|-----------------------|-----------------------|
+|![AAPL](img/aaplPlot.png)  | ![EBAY](img/ebayPlot.png) | ![MSFT](img/msftPlot.png) |
+
+### Comparison of charts
+![Compare](img/compate.png)
+
+[Jupyter file](stocks.ipynp)

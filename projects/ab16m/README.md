@@ -33,3 +33,6 @@ Leave Your Signature and Time
 
 # Here's a link to my tip_calculator README
 [Tip_calculator](tip_calculator/README.md "tip_calc_README")
+
+# Here's a link to my graph_matical README
+[Graphmatical](graph_matical/README.md "Graphmatical_README")

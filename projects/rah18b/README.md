@@ -29,7 +29,7 @@ Name				|Date		|Time
 
 *Course Work Links:*
 
-2. [Week2 README.md](a1_tip_calculator/README.md)
+2. [Week2 README.md](week2/README.md)
 - Team Work: One File Requirements
     - *Chs. 1-5 in Python textbook.*
     - Development Installations:
@@ -44,7 +44,16 @@ Name				|Date		|Time
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-3. [Week3 README.md](a2/README.md "My A2 README.md file")
+3. [Week3 README.md](week3/README.md "My Week3 README.md file")
+
+    - Chs. 6-10 in Python textbook.
+    - Backward-engineer screenshot below: README.md file should include the following items:
+        - Screenshot of your Jupyter notebook (see below);
+        - Upload .ipynb file and create link in README.md;
+        Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+           - *Restart & clear output* 
+           - *Restart & Run All* 
+
 
 
 

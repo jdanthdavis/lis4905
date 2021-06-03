@@ -31,7 +31,7 @@
 *Links to Notebook and Python File Below:*
 
 1. Link to Python File
-[Python File](docs/A1.py "A1")
+[Python File](docs/A1.py "Week 2")
 
 2. Link to Notebook
-[Notebook](docs/A1.ipynb "A1 Notebook")
+[Notebook](docs/A1.ipynb "Week 2 Notebook")
