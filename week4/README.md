@@ -9,4 +9,17 @@
 
 ### Week 4 Requirements:
 
-1. Forthcoming...
+1. ***Chs. 11-15 in Python textbook.***
+2. **Backward-engineer screenshot below:** README.md file should include the following items:
+    1. **Screenshot of your Jupyter notebook (see below);**
+    2. Upload .ipynb file and create link in README.md;  
+    **Note:** *Before* uploading .ipynb file, *be sure* to do the following actions from **Kernal** menu:  
+        a. **Restart & Clear Output**  
+        b. **Restart & Run All**  
+    
+    **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!  
+
+![Week4 Requirements](../img/week4.png "Week4 Requirements")
+
+3. [Week5 Requirements](../week5/README.md "Week5")
+

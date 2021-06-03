@@ -226,9 +226,9 @@ Steps below make sure your **local** *develop* branch is up to date with your **
 2. **develop**: This branch will be the "live" version of your software.   
 If you are working on a team, this is the branch that developers will push to on a regular basis with new features.
 3. **feature**: Can be *many*** "feature" branches--depending upon team size.  
-**Note:** Each "*feature*" branch **MUST** be tested, prior to merging/pushing to "develop** branch.  
-***Features should *never* interact directly with master!***  
-For us, "*feature*" branch can be new feature, or fix.
+**Note:** Each "*feature*" branch **MUST** be tested, prior to merging/pushing to **"develop"** branch.  
+***Features should never interact directly with master!***  
+For us, "*feature*" branch can be new feature, or fix (see example above).
 
 ### Pull requests
 1. Why? Tell others about changes you've pushed to a branch in a remote repo.  
