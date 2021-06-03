@@ -10,26 +10,11 @@
 6. Justin Davis 5/20/21 11:51AM
 7. Andrew Vargas 5/20/21 12:13PM
 
-<<<<<<< HEAD
-I'll put some cool stuff like formatting when I'm on my machine and not the """"portable"""" one I'm working on right now. 
-=======
 -----------------------------------------------------------------------------
->>>>>>> 9f06b0fe3cb42827bbc35484a2fe78a2cd4d1eff
 
 ## WEEK 2 
 
-<<<<<<< HEAD
-# GUESTBOOK
-## Please Sign in with your name, date, and if you've played Halo: Combat Evolved
-Alexander Boehm 5/19/21 12:51 AM
-Mitchell Mujwit 5/19/21 5:50PM
-Rachel Hester 5/19/21 5:49PM
-Phil Bowman 5/19/21 7:33
-Bryan Humphries 5/20/21 11:40AM
-Justin Davis 5/20/21 11:51AM
-Andrew Vargas 5/20/21 12:13PM
-=======
-### TODO
+### <u>TODO</u>
 1. Install Python
 2. Verify install
 3. Prepare sa17d repo
@@ -49,4 +34,30 @@ Andrew Vargas 5/20/21 12:13PM
 ![calcVSC](img/calcVSC.png)
 
 3.  *Filepath to .ipynmb file*: [here.](week2/tip_calculator.ipynb "notebookFP")
->>>>>>> 9f06b0fe3cb42827bbc35484a2fe78a2cd4d1eff
+
+--------------------------------------------------------------------------------
+
+## Week 3
+
+### <u>TODO</u>
+1. Work with your team.
+2. Backwards engineer screenshot below.
+3. If errors, check missing installs.
+4. If needed, research how to do any installs
+5. Include at *least* three graphs for each company
+6. Create a different * style of graphs  for each company shown below
+7. (To be done post deadline, optional) Fix main README, defer content to weekly repositories.
+
+### Delivs
+
+1. *Screenshots of Jupyter Notebook*:
+
+![w3JUP1](img/w3JUP1.png)
+
+![w3JUP2](img/w3JUP2.png)
+
+![w3JUP3](img/w3JUP3.png)
+
+![w3JUP4](img/w3JUP4.png)
+
+2.  *Filepath to .ipynmb file*: [here.](week3/ticker.ipynb "notebookFP")
