@@ -19,6 +19,8 @@
     
     **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!  
 
+[animal_survey.csv](../resources/animal_survey.csv "Animal Survey Data")  
+
 ![Week4 Requirements](../img/week4.png "Week4 Requirements")
 
 3. [Week5 Requirements](../week5/README.md "Week5")
