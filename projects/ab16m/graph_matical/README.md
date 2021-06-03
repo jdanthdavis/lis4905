@@ -23,5 +23,5 @@ Here are some images! <h3>
 [Jupyter Notebook Link](dis_a3.ipynb "Graphmatical" )
 
 #### For the love of the humans
-:heart_eyes_cat::heart_eyes_cat::heart_eyes_cat:<br>
+:heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat::heart_eyes_cat:<br>
 ![LOVE CONQUERS](https://media.giphy.com/media/3gUjt1bxz6N0YSKRKE/giphy.gif "LOVE")
