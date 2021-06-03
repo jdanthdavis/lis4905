@@ -52,7 +52,7 @@ Name				|Date		|Time
         - Upload .ipynb file and create link in README.md;
         Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
            - *Restart & clear output* 
-           - *Restart * Run All* 
+           - *Restart & Run All* 
 
 
 

@@ -7,6 +7,7 @@ import pandas_datareader.data as web
 start = dt.datetime(2010,1,1)
 end = dt.datetime.now()
 
+f = web.DataReader('AAPL', 'yahoo', start, end)
 def get_requirements():
 	
 	"""Get the program requirements"""
