@@ -18,7 +18,7 @@
 
 [animal_survey Ipynb](docs/animal_survey.ipynb)
 
-*Graphing Stocks Code*:
+*Animal Survey Code*:
 
 [animal_survey File](docs/animal_survey.py)
 
