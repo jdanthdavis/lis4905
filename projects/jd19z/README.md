@@ -55,7 +55,13 @@
             -  *Restart & Run All*
 
 4. [Week 4 README.md](Week4/README.md "My Week 4 README.md file")
-    - N/A
+    - *Chs. 11-15 in Python textbook.*
+    - *Backward-engineer screenshot:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook;*
+        - Upload .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
 5. [Week 5 README.md](Week5/README.md "My Week 5 README.md file")
     - N/A
