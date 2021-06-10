@@ -19,7 +19,6 @@
     
     **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!  
 
-![Week5 Requirements](../img/week5.png "Week5 Requirements")
-
-3. [Week5 Requirements](../week6/README.md "Week6")
+![Week5 Requirements](../img/week5.png "Week5 Requirements")  
+3. [Week6 Requirements](../week6/README.md "Week6")
 
