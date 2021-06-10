@@ -53,7 +53,14 @@ Name				|Date		|Time
         Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
            - *Restart & clear output* 
            - *Restart & Run All* 
-
+4. [Week4 README.md](week4/README.md "My Week4 README.md file")
+    - Chs. 11-15 in Python textbook.
+    - Backward-engineer screenshot below: README.md file should include the following items:
+        - Screenshot of your Jupyter notebook (see below);
+        - Upload .ipynb file and create link in README.md;
+            Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+            - Restart & Clear Output
+            - Restart & Run All
 
 
 
