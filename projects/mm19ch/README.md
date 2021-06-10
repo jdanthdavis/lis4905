@@ -11,30 +11,8 @@
 6. Bryan Humphries 11:39 AM 5/20/21 </br>
 7. Andrew Vargas 12:11PM 5/20/21 </br>
 
-# A1:
+1. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
+    - Build tip calculator in jupyter notebook
 
-| Calculattor in jupyter                | Calculator in vscode     |
-|---------------------------------------|--------------------------|
-|![Tip_calculator](img/calculatorImg.png)  | ![Code](img/code.png) |
-
-[Jupyter file](calculator.ipynp)
-
-# A2:
-
-
-### Data
-
-| AAPL                  | EBAY                  | MSFT                  |
-|-----------------------|-----------------------|-----------------------|
-|![AAPL](img/aapl.png)  | ![EBAY](img/ebay.png) | ![MSFT](img/msft.png) |
-
-### Charts
-
-| AAPL Plot                  | EBAY Plot                 | MSFT Plot                |
-|-----------------------|-----------------------|-----------------------|
-|![AAPL](img/aaplPlot.png)  | ![EBAY](img/ebayPlot.png) | ![MSFT](img/msftPlot.png) |
-
-### Comparison of charts
-![Compare](img/compate.png)
-
-[Jupyter file](stocks.ipynp)
+2. [Week 3 README.md](Week3/README.md "My Week 3 README.md file")
+    - Plot stock open over 10 years in jupyter notebook

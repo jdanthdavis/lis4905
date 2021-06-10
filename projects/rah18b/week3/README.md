@@ -2,7 +2,7 @@
 
 >
 
-# LIS4905 Extensible Enterprise Solutions
+# LIS4905 Enterprise Application Solutions (DIS)
 
 ## Rachel Hester
 
