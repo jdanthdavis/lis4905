@@ -1,63 +1,72 @@
 # ![SAR](img/favicon.png)
 
-##  WEEK 1 - GUESTBOOK
-#### Please sign in with your name and a timestamp
-1. Alexander Boehm 5/19/21 12:51 AM
-2. Mitchell Mujwit 5/19/21 5:50PM
-3. Rachel Hester 5/19/21 5:49PM
-4. Phil Bowman 5/19/21 7:33
-5. Bryan Humphries 5/20/21 11:40AM
-6. Justin Davis 5/20/21 11:51AM
-7. Andrew Vargas 5/20/21 12:13PM
+1. [Week 1 README.md](week1/README.md "My Week 1 README.md file")
+    - Introductions
+    - Course Overview
+    - *Meat as a team!*
+    - Review:
+        - Git and Git WorkFlow Resources
+        - Git Guide for any assistance needed!
+        - *Research* your own solutions!
+    - *Clone this course repo:*
+    - *Everyone*, create a sub-directory in the repo's *projects* directory:
+        - Using *yourfsuid* in lower-case, and
+        - include a *README.md* file, *with SOME CONTENT!*
+    - *Fetch* or *pull* the updated repo
 
------------------------------------------------------------------------------
+2. [Week 2 README.md](week2/README.md "My Week 2 README.md file")
+    - Team Work: One File Requirements
+    - *Chs. 1-5 in Python textbook.*
+    - Development Installations:
+        - Anaconda Individual FREE version (includes Python, R, etc.):
+        - *BE SURE* to get Python 3+ version. *Note:* Don't need to register, if you don't want to.
+        - Verify installation
+        - *Test Installation:* README.md file should include the following items:
+            - *Screenshot of a1_tip_calculator application running using IDLE (see below);*
+            - *Screenshot of a1_tip_calculator application running using Visual Studio Code (see below);*
+            -  Upload A1 .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
-## WEEK 2 
+3. [Week 3 README.md](week3/README.md "My Week 3 README.md file")
+    - *Chs. 6-10 in Python textbook.*
+    - *Backward-engineer screenshot:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook;*
+        - Upload .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
-### <u>TODO</u>
-1. Install Python
-2. Verify install
-3. Prepare sa17d repo
-4. tip_calc
-5. screenshot installs
-6. push
-7. tested new workflow
+4. [Week 4 README.md](week4/README.md "My Week 4 README.md file")
+    - Chs. 11-15 in Python textbook.
+    - Backward-engineer screenshot below: README.md file should include the following items:
+        1. Screenshot of your Jupyter notebook (see below);
+        2. Upload .ipynb file and create link in README.md;
+            - *Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:*
+            - Restart & Clear Output
+            - Restart & Run All
 
-### Delivs
+5. [Week 5 README.md](week5/README.md "My Week 5 README.md file")
+    - N/A
 
-1. *Screenshot of calc (IDLE)*:
+6. [Week 6 README.md](week6/README.md "My Week 6 README.md file")
+    - N/A
 
-![calcIDLE](img/calcIDLE.png)
+7. [Week 7 README.md](week7/README.md "My Week 7 README.md file")
+    - N/A
 
-2. *Screenshot of calc (VSC)*:
+8. [Week 8 README.md](week8/README.md "My Week 8 README.md file")
+    - N/A
 
-![calcVSC](img/calcVSC.png)
+9. [Week 9 README.md](week9/README.md "My Week 9 README.md file")
+    - N/A
 
-3.  *Filepath to .ipynmb file*: [here.](week2/tip_calculator.ipynb "notebookFP")
+10. [Week 10 README.md](week10/README.md "My Week 10 README.md file")
+    - N/A
 
---------------------------------------------------------------------------------
+11. [Week 11 README.md](week11/README.md "My Week 11 README.md file")
+    - N/A
 
-## Week 3
-
-### <u>TODO</u>
-1. Work with your team.
-2. Backwards engineer screenshot below.
-3. If errors, check missing installs.
-4. If needed, research how to do any installs
-5. Include at *least* three graphs for each company
-6. Create a different * style of graphs  for each company shown below
-7. (To be done post deadline, optional) Fix main README, defer content to weekly repositories.
-
-### Delivs
-
-1. *Screenshots of Jupyter Notebook*:
-
-![w3JUP1](img/w3JUP1.png)
-
-![w3JUP2](img/w3JUP2.png)
-
-![w3JUP3](img/w3JUP3.png)
-
-![w3JUP4](img/w3JUP4.png)
-
-2.  *Filepath to .ipynmb file*: [here.](week3/ticker.ipynb "notebookFP")
+12. [Week 12 README.md](week12/README.md "My Week 12 README.md file")
+    - N/A
