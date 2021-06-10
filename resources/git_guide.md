@@ -141,19 +141,55 @@ Steps below make sure your **local** *develop* branch is up to date with your **
 **Note:** ***Do NOT*** merge/push to master, ***UNLESS YOU OWN IT!***  
 **Note:** "*develop*" branch **MUST** be tested, prior to pushing to master branch!  
 
-1. Switch to master branch.
+1. **After** working on ***your*** branch, **Step 5 (above)**, switch to develop branch
    ```
-   git checkout master
+   git checkout develop
    ```
-2. merge develop into master
+2. Get latest changes from remote develop branch
+   ```
+   git pull
+   ```
+3. Switch to your branch
+   ```
+   git checkout yourbranch
+   ```
+4. Merge develop branch into your branch
    ```
    git merge develop
    ```
-4. **Be sure** on master branch!
+5. Switch to develop branch
+   ```
+   git checkout develop
+   ```
+6. merge your branch changes into develop
+   ```
+   git merge yourbranch
+   ```
+7. Switch to master branch
+   ```
+   git checkout develop
+   ```
+8. merge develop into master
+   ```
+   git merge develop
+   ```
+9. **Be sure** on master branch!
    ```
    git status
    ```
-5. **After** testing/fixing, push your changes to remote master branch
+10. **After** testing/fixing, push your changes to remote master branch
+   ```
+   git push
+   ```
+11. Switch to develop branch
+   ```
+   git checkout develop
+   ```
+12. **Be sure** on develop branch!
+   ```
+   git status
+   ```
+13. **After** testing/fixing, push your changes to remote develop branch
    ```
    git push
    ```
