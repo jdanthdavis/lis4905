@@ -11,8 +11,35 @@
 6. Bryan Humphries 11:39 AM 5/20/21 </br>
 7. Andrew Vargas 12:11PM 5/20/21 </br>
 
-1. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
-    - Build tip calculator in jupyter notebook
+8. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
+    - Team Work: One File Requirements
+    - *Chs. 1-5 in Python textbook.*
+    - Development Installations:
+        - Anaconda Individual FREE version (includes Python, R, etc.):
+        - *BE SURE* to get Python 3+ version. *Note:* Don't need to register, if you don't want to.
+        - Verify installation
+        - *Test Installation:* README.md file should include the following items:
+            - *Screenshot of a1_tip_calculator application running using IDLE (see below);*
+            - *Screenshot of a1_tip_calculator application running using Visual Studio Code (see below);*
+            -  Upload A1 .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
 
-2. [Week 3 README.md](Week3/README.md "My Week 3 README.md file")
-    - Plot stock open over 10 years in jupyter notebook
+9. [Week 3 README.md](Week3/README.md "My Week 3 README.md file")
+    - *Chs. 6-10 in Python textbook.*
+    - *Backward-engineer screenshot:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook;*
+        - Upload .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
+
+10. [Week 4 README.md](Week4/README.md "My Week 4 README.md file")
+    - *Chs. 11-15 in Python textbook.*
+    - *Backward-engineer screenshot:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook;*
+        - Upload .ipynb file and create link in README.md;  
+        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
