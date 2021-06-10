@@ -167,7 +167,7 @@ Steps below make sure your **local** *develop* branch is up to date with your **
    ```
 7. Switch to master branch
    ```
-   git checkout develop
+   git checkout master
    ```
 8. merge develop into master
    ```
