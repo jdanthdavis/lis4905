@@ -25,18 +25,31 @@
 
 #### Assignment Questions:
 5. Give short, cogent answers to the following questions (in *your* words):
-            a. What is AI?
-            b. What is machine learning?
-            c. What is deep learning and neural networks?
-            d. What is natural language processing (NLP)?
+    - What is AI?
+        - AI is intelligence shown by machines.
+    - What is machine learning?
+        - Machine learning is a type of AI that focues on algorithms.
+    - What is deep learning and neural networks?
+        - A neural network is a model after the human brain. Deep Learning is a type of AI that is based on neural networks.
+    - What is natural language processing (NLP)?
+        - NLP is a subfield of multiple fields within AI that focuses on the interactions between ML and the human language.
 6. Research difference between TensorFlow and PyTorch:
-            a. What are they used for?
-            b. List differences.
-            c. Why would you use one over the other?
+    - What are they used for?
+        - Both are used for deep learning.
+    - List differences.
+        - Static (Tensorflow) vs Dynamic (PyTorch) graphing.
+        - Different types of debuggers.
+        - Different model, audio, and graph visuals.
+    - Why would you use one over the other?
+        - I would pick TF because of the ease of deployment. TF also has better performance than PyTorch.
 9. When runing program:
-            a. Document any issues.
-            b. Document solutions attempted.
-            c. How good was data model--compared to actual data (accuracy percentage)? 
+    - Document any issues.
+        - Installation of TF and PyTorch within Conda.
+    - Document solutions attempted.
+        - Reinstall of Conda
+        - Pip install of TF and Pytorch
+    - How good was data model--compared to actual data (accuracy percentage)? 
+        - Accuracy was 0.7322835%.
 
 #### Assignment Screenshots:
 
