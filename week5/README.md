@@ -21,6 +21,8 @@
 
 [pima-indians-diabetes.csv](../resources/pima-indians-diabetes.csv "Pima Indians Diabetes Data")  
 
+[Acknowledgement](http://networkrepository.com/pima-indians-diabetes.php "Acknowledgement")  
+ 
 ![Week5 Requirements](../img/week5.png "Week5 Requirements")
 
 3. [Week6 Requirements](../week6/README.md "Week6")
