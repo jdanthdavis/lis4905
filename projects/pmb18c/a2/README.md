@@ -5,3 +5,5 @@
 ![a2 screenshot 5](/projects/pmb18c/img/lis4905_a2_5.PNG)
 ![a2 screenshot 6](/projects/pmb18c/img/lis4905_a2_6.PNG)
 
+
+[A2 Jupyter Notebook Link](a2.ipynb)
