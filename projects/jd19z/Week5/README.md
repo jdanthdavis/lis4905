@@ -19,9 +19,24 @@
 
 [tip_ipynb File](docs/artificial_intelligence_notebook.ipynb)
 
-*Tip Calculator Code*:
+*Artificial Intelligence Code*:
 
 [tip_py File](docs/artificial_intelligence.py)
+
+#### Assignment Questions:
+5. Give short, cogent answers to the following questions (in *your* words):
+            a. What is AI?
+            b. What is machine learning?
+            c. What is deep learning and neural networks?
+            d. What is natural language processing (NLP)?
+6. Research difference between TensorFlow and PyTorch:
+            a. What are they used for?
+            b. List differences.
+            c. Why would you use one over the other?
+9. When runing program:
+            a. Document any issues.
+            b. Document solutions attempted.
+            c. How good was data model--compared to actual data (accuracy percentage)? 
 
 #### Assignment Screenshots:
 
