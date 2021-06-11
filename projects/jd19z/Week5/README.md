@@ -17,16 +17,17 @@
 
 *.ipynb File*
 
-[tip_ipynb File](docs/tip_calculator.ipynb)
+[tip_ipynb File](docs/artificial_intelligence_notebook.ipynb)
 
 *Tip Calculator Code*:
 
-[tip_py File](docs/a1_tip_calculator.py)
+[tip_py File](docs/artificial_intelligence.py)
 
 #### Assignment Screenshots:
 
-*Week # Screenshots*:
+*Week #5 Screenshots*:
 
-![tip_calculator](img/tip_calculator.png)
-
-![tip_notebook](img/tip_notebook.png)
+![artificial_intelligence](img/artificial_intelligence1.png)
+![artificial_intelligence](img/artificial_intelligence2.png)
+![artificial_intelligence](img/artificial_intelligence3.png)
+![artificial_intelligence](img/artificial_intelligence4.png)
