@@ -19,9 +19,8 @@
     
     **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!  
 
-[pima-indians-diabetes.csv](../resources/pima-indians-diabetes.csv "Pima Indians Diabetes Data")  
-
-[Acknowledgement](http://networkrepository.com/pima-indians-diabetes.php "Acknowledgement")  
+[pima-indians-diabetes.csv](../resources/pima-indians-diabetes.csv "Pima Indians Diabetes Data") ([Acknowledgement](http://networkrepository.com/pima-indians-diabetes.php
+"Acknowledgement"))  
  
 ![Week5 Requirements](../img/week5.png "Week5 Requirements")
 
