@@ -9,4 +9,18 @@
 
 ### Week 6 Requirements:
 
-1. todo...
+1. **Backward-engineer screenshot below:** README.md file should include the following items:
+    1. **Screenshot of your Jupyter notebook (see below);**
+    2. Upload .ipynb file and create link in README.md;  
+    **Note:** *Before* uploading .ipynb file, *be sure* to do the following actions from **Kernal** menu:  
+        a. **Restart & Clear Output**  
+        b. **Restart & Run All**  
+    
+    **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!  
+
+[Acknowledgement](https://rdrr.io/cran/rattle.data/man/weatherAUS.html "Acknowledgement")  
+ 
+![Week6 Requirements](../img/week6.png "Week6 Requirements")
+
+2. [Week7 Requirements](../week7/README.md "Week7")
+
