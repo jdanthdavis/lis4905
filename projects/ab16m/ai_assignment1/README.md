@@ -8,8 +8,6 @@
 
 ## Results
 ![AI statistics](img/a5_p4.png "AI Stats")
-</br>
-</br>
 
 ## General Questions:
 
@@ -72,8 +70,8 @@
 [Jupyter Notebook](ai_a5.ipynb "Jupyter Notebook")
 
 #### Here's to long nights
-:sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping:
-</br>
+:sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping::sleeping:     
+
 ![Sleepy](https://media.giphy.com/media/xT5LMEMzdKTE2a6xfG/giphy.gif "Sleepy")
         
 
