@@ -68,7 +68,18 @@ Name				|Date		|Time
     - Backward-engineer screenshot below: README.md file should include the 
       following items:
 	    - Screenshot of your Jupyter notebook (see below);
-	    - Upload .ipynb file and create link in README.md; NOTE: Before uploading .ipynb file, be sure to do the following actions from Kernal menu: a. Restart & Clear Output b. Restart & Run All Note: Always run the .py files before trying t ocreate a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+	    - Upload .ipynb file and create link in README.md; NOTE: Before uploading .ipynb file, be sure to do the following actions from Kernal menu: a. Restart & Clear Output b. Restart & Run All 
+        - Note: Always run the .py files before trying t ocreate a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+
+6. [Week6 README.md](week6/README.md "My Week6 README.md file")
+    - *Backward-engineer screenshot below:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook (see below);*
+        - Upload .ipynb file and create link in README.md;
+        *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+            a. *Restart & Clear Output*
+            b. *Restart & Run All*
+        - Note: Always* run the .py files before trying t ocreate a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+
 
 
 

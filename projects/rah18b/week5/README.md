@@ -1,4 +1,4 @@
-*Welcome to Rachel's Week 4 ReadMe.md*
+*Welcome to Rachel's Week 5 ReadMe.md*
 
 >
 
@@ -64,7 +64,7 @@
 *Links to Notebook and Python File Below:*
 
 1. Link to Python File
-[Python File](docs/week5.py "Week 5")
+[Python File](docs/week5.py "Week 5 Python File")
 
 2. Link to Notebook
-[Notebook](docs/Week5.ipynb "Week 4 Notebook")
+[Notebook](docs/Week5.ipynb "Week 5 Notebook")
