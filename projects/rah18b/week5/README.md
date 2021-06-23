@@ -33,7 +33,7 @@
 	7. Why would you use one over the other?
 	> PyTorch is easier to work with and might be better for quickly built projects and building prototypes quickly whereas TensorFlow might be used for production models because its abilities are meant for production-ready projects. 
 
-
+>
 > 
 > 
 > 
