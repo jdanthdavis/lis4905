@@ -108,5 +108,8 @@ def data_analysis_2():
     plt.xlabel("loc_id")
     plt.show
 
-    get_requirements()
-    data_analysis_2()
+    def main():
+        get_requirements()
+        data_analysis_2()
+
+        main()
