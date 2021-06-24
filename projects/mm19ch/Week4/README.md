@@ -2,7 +2,6 @@
 
 ### Data Screenshots
 
-![imports](img/code.png)  
 ![data](img/return1.png)  
 ![plot call](img/return2.png)  
 ![plots](img/graphs.png)  
