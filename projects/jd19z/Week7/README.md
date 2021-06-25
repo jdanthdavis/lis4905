@@ -2,24 +2,31 @@
 
 ## Justin Davis
 
-### Week # Requirements:
+### Week #7 Requirements:
 
-1. 
+1. *Backward-engineer screenshot below:* README.md file should include the following items:
+    1. *Screenshot of your Jupyter notebook (see below);*
+    2. Upload .ipynb file and create link in README.md;
+        *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+            a. *Restart & Clear Output*
+            b. *Restart & Run All*
+    *Note: Always* run the .py files before trying t ocreate a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
 
 #### Assignment Links:
 
 *.ipynb File*
 
-[tip_ipynb File](docs/tip_calculator.ipynb)
+[deep_learning_ipynb File](docs/deep_learning.ipynb)
 
-*Tip Calculator Code*:
+*Deep Learning Code*:
 
-[tip_py File](docs/a1_tip_calculator.py)
+[deep_learning File](docs/deep_learning.py)
 
 #### Assignment Screenshots:
 
-*Week # Screenshots*:
+*Week #6 Screenshots*:
 
-![tip_calculator](img/tip_calculator.png)
-
-![tip_notebook](img/tip_notebook.png)
+![deep_learning1](img/deep_learning1.png)
+![deep_learning2](img/deep_learning2.png)
+![deep_learning3](img/deep_learning3.png)
+![deep_learning4](img/deep_learning4.png)
