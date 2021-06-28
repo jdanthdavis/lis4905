@@ -4,7 +4,9 @@
 ![a3 screenshot 4](/projects/pmb18c/img/lis4905_a3_4.PNG)
 ![a3 screenshot 5](/projects/pmb18c/img/lis4905_a3_5.PNG)
 ![a3 screenshot 6](/projects/pmb18c/img/lis4905_a3_6.PNG)
-
+![a3 screenshot 6](/projects/pmb18c/img/lis4905_a3_7.PNG)
+![a3 screenshot 6](/projects/pmb18c/img/lis4905_a3_8.PNG)
+![a3 screenshot 6](/projects/pmb18c/img/lis4905_a3_9.PNG)
 [A3 Jupyter Notebook Link](A3.ipynb)
 
 
