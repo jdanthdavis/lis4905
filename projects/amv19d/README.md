@@ -76,7 +76,13 @@
 
 
 7. [Week 7 README.md](week_7/README.md "My Week 7 README.md file")
-    - N/A
+       - *Backward-engineer screenshot below:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook (see below);*
+        - Upload .ipynb file and create link in README.md;
+        - *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+            -  *Restart & Clear Output*
+            -  *Restart & Run All*
+
 
 8. [Week 8 README.md](week_8/README.md "My Week 8 README.md file")
     - N/A
