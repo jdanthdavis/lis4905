@@ -11,7 +11,8 @@
 	- Install Visual Studio Code
 	- Create tip_calculator
 	- Upload screenshots of running tip calculator in IDLE, Windows CMD, and VS code
-<br>
+
+
 
 
 
@@ -20,23 +21,43 @@
 	- Provide screenshot of Jupyter notebook
 	- Upload .ipynb file
 	- Create link in README file
-<br>
+
+
 
 
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
 	- Backward engineer the provided screenshots
 	- Provide screenshots of Jupyter notebook	
-	- Upload .ipynb
+	- Upload .ipynb file
 	- Create link in README file
-<br>
+
+
 
 
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
 	- Backward engineer the provided screenshots
 	- Provide screenshots of Jupyter notebook
-        - Upload .ipynb
+        - Upload .ipynb file
         - Create link in README file
 
-<br>
+
+
+
+
+5. [A5 README.md](a5/README.md "My A5 README.md file") 
+	- Backward engineer the provided screenshots 
+	- Provide screenshots of Jupyter notebook 
+	- Upload .ipynb file 
+	- Create link in README file
+
+
+
+
+
+6. [A6 README.md](a6/README.md "My A6 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file
