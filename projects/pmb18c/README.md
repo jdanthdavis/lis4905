@@ -6,7 +6,7 @@
 
 
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
+1. [week2 README.md](week2/README.md "My A1 README.md file")
 	- Install Python
 	- Install Visual Studio Code
 	- Create tip_calculator
@@ -16,7 +16,7 @@
 
 
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+2. [week3 README.md](week3/README.md "My A2 README.md file")
 	- Reverse engineer the provided screenshots
 	- Provide screenshot of Jupyter notebook
 	- Upload .ipynb file
@@ -26,7 +26,7 @@
 
 
 
-3. [A3 README.md](a3/README.md "My A3 README.md file")
+3. [week4 README.md](week4/README.md "My A3 README.md file")
 	- Backward engineer the provided screenshots
 	- Provide screenshots of Jupyter notebook	
 	- Upload .ipynb file
@@ -36,7 +36,7 @@
 
 
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
+4. [week5 README.md](week5/README.md "My A4 README.md file")
 	- Backward engineer the provided screenshots
 	- Provide screenshots of Jupyter notebook
 	- Upload .ipynb file
@@ -46,7 +46,7 @@
 
 
 
-5. [A5 README.md](a5/README.md "My A5 README.md file") 
+5. [week6 README.md](week6/README.md "My A5 README.md file") 
 	- Backward engineer the provided screenshots 
 	- Provide screenshots of Jupyter notebook 
 	- Upload .ipynb file 
@@ -56,7 +56,7 @@
 
 
 
-6. [A6 README.md](a6/README.md "My A6 README.md file")
+6. [week7 README.md](week7/README.md "My A6 README.md file")
 	- Backward engineer the provided screenshots
 	- Provide screenshots of Jupyter notebook
 	- Upload .ipynb file
