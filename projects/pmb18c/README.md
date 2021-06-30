@@ -39,8 +39,8 @@
 4. [A4 README.md](a4/README.md "My A4 README.md file")
 	- Backward engineer the provided screenshots
 	- Provide screenshots of Jupyter notebook
-        - Upload .ipynb file
-        - Create link in README file
+	- Upload .ipynb file
+	- Create link in README file
 
 
 
@@ -57,7 +57,7 @@
 
 
 6. [A6 README.md](a6/README.md "My A6 README.md file")
-        - Backward engineer the provided screenshots
-        - Provide screenshots of Jupyter notebook
-        - Upload .ipynb file
-        - Create link in README file
+	- Backward engineer the provided screenshots
+	- Provide screenshots of Jupyter notebook
+	- Upload .ipynb file
+	- Create link in README file
