@@ -36,3 +36,5 @@ Leave Your Signature and Time
 [Artifical Intelligence I](ai_assignment1/README.md "Artifical Intelligence I")
 # Here's a link to my Artifical Intelligence II README
 [Artifical Intelligence II](ai_assignment2/README.md "Artifical Intelligence II")
+# Here's a link to my Week7 README
+[Deep Learning](week7/README.md "Deep Learning")
