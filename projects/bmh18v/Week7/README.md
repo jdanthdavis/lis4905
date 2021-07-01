@@ -20,7 +20,7 @@
 
 *Week 7 Code*:
 
-[ai File](docs/diabetes_week7.py)
+[Code File](docs/diabetes_week7.py)
 
 
 #### Assignment Screenshots:
