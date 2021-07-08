@@ -61,3 +61,14 @@
 	- Provide screenshots of Jupyter notebook
 	- Upload .ipynb file
 	- Create link in README file
+
+
+
+
+
+7. [week8 README.md](week8/README.md "My A7 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file
+
