@@ -12,48 +12,28 @@
 7. Andrew Vargas 12:11PM 5/20/21 </br>
 
 8. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
-    - Team Work: One File Requirements
-    - *Chs. 1-5 in Python textbook.*
-    - Development Installations:
-        - Anaconda Individual FREE version (includes Python, R, etc.):
-        - *BE SURE* to get Python 3+ version. *Note:* Don't need to register, if you don't want to.
-        - Verify installation
-        - *Test Installation:* README.md file should include the following items:
-            - *Screenshot of a1_tip_calculator application running using IDLE (see below);*
-            - *Screenshot of a1_tip_calculator application running using Visual Studio Code (see below);*
-            -  Upload A1 .ipynb file and create link in README.md;  
-        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
-            -  *Restart & Clear Output*
-            -  *Restart & Run All*
+    - Create tip calculator py
+    - Run tip calculator in jupyter notebook
 
 9. [Week 3 README.md](Week3/README.md "My Week 3 README.md file")
-    - *Chs. 6-10 in Python textbook.*
-    - *Backward-engineer screenshot:* README.md file should include the following items:
-        - *Screenshot of your Jupyter notebook;*
-        - Upload .ipynb file and create link in README.md;  
-        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
-            -  *Restart & Clear Output*
-            -  *Restart & Run All*
+    - Create stock analtsis py
+    - Run stock analysis in jupyter notebook
 
 10. [Week 4 README.md](Week4/README.md "My Week 4 README.md file")
-    - *Chs. 11-15 in Python textbook.*
-    - *Backward-engineer screenshot:* README.md file should include the following items:
-        - *Screenshot of your Jupyter notebook;*
-        - Upload .ipynb file and create link in README.md;  
-        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
-            -  *Restart & Clear Output*
-            -  *Restart & Run All*
+    - Create data analysis py and run on csv
+    - Run data analysis in jupyter notebook
 
 11. [Week 5 README.md](Week5/README.md "My Week 5 README.md file")
-        - *Screenshot of your Jupyter notebook;*
-        - Upload .ipynb file and create link in README.md;  
-        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
-            -  *Restart & Clear Output*
-            -  *Restart & Run All*
+    - Create artificial analysis py
+    - Run analysis through jupyter notebook
 
 12. [Week 6 README.md](Week6/README.md "My Week 6 README.md file")
-        - *Screenshot of your Jupyter notebook;*
-        - Upload .ipynb file and create link in README.md;  
-        - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
-            -  *Restart & Clear Output*
-            -  *Restart & Run All*
+    - Create artifical analysis part 2 py
+    - Run artifical analysis in jupyter notebook
+
+13. [Week 7 README.md](Week7/README.md "My Week 7 README.md file")
+    - Created deep learning py
+    - Run deep learning in jupyter notebook
+
+14. [Week 8 README.md](Week8/README.md "My Week 8 README.md file")
+    - TBD
