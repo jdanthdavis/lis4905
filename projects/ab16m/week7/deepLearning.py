@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pandas as pdr
 import tensorflow as tf
 from tensorflow.keras import Sequential

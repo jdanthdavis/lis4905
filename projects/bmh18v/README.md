@@ -48,23 +48,45 @@
 3. [Week 3 README.md](Week3/README.md "My Week 3 README.md file")
     - *Chs. 6-10 in Python textbook.*
     - *Backward-engineer screenshot:* README.md file should include the following items:
-        - *Screenshot of your Jupyter notebook;*
+        - *Screenshot of your Jupyter notebook*
         - Upload .ipynb file and create link in README.md;  
         - *Note:* *Before* uploading .ipynb file, *be sure* to do the following actions from *Kernal* menu:  
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
 4. [Week 4 README.md](Week4/README.md "My Week 4 README.md file")
-    - N/A
+    - *Chs. 11-15 in Python textbook.*
+	- Backward-engineer screenshot: README.md file should include the following items:
+	- *Screenshot of your Jupyter notebook*
+	- Upload .ipynb file and create link in README.md
+	- Note: *Before* uploading .ipynb file, be sure to do the following actions from Kernal menu:
+		- *Restart & Clear Output*
+		- *Restart & Run All*
 
 5. [Week 5 README.md](Week5/README.md "My Week 5 README.md file")
-    - N/A
+    - Chs. 16-18 in Python textbook.
+	- Backward-engineer screenshot: README.md file should include the following items:
+	- Screenshot of your Jupyter notebook;
+	- Upload .ipynb file and create link in README.md
+	- Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+		- *Restart & Clear Output*
+		- *Restart & Run All*
 
 6. [Week 6 README.md](Week6/README.md "My Week 6 README.md file")
-    - N/A
+    - Backward-engineer screenshot below: README.md file should include the following items:
+	- Screenshot of your Jupyter notebook (see below)
+	- Upload .ipynb file and create link in README.md
+	- NOTE: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+		- *Restart & Clear Output*
+		- *Restart & Run All*
 
 7. [Week 7 README.md](Week7/README.md "My Week 7 README.md file")
-    - N/A
+     - Backward-engineer screenshot below: README.md file should include the following items:
+	- Screenshot of your Jupyter notebook (see below)
+	- Upload .ipynb file and create link in README.md
+	- NOTE: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+		- *Restart & Clear Output*
+		- *Restart & Run All*
 
 8. [Week 8 README.md](Week8/README.md "My Week 8 README.md file")
     - N/A
