@@ -38,3 +38,5 @@ Leave Your Signature and Time
 [Artifical Intelligence II](ai_assignment2/README.md "Artifical Intelligence II")
 # Here's a link to my Week7 README
 [Deep Learning](week7/README.md "Deep Learning")
+# Here's a link to my Week8 README
+[Data Manipulation](week8/README.md "Data Manipulation")
