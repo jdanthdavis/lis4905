@@ -31,9 +31,10 @@
     - Create artifical analysis part 2 py
     - Run artifical analysis in jupyter notebook
 
-13. [Week 7 README.md](Week7/README.md "My Week 7 README.md file")
+13. [Week 7 README.md](week7/README.md "My Week 7 README.md file")
     - Created deep learning py
     - Run deep learning in jupyter notebook
 
-14. [Week 8 README.md](Week8/README.md "My Week 8 README.md file")
-    - TBD
+14. [Week 8 README.md](week8/README.md "My Week 8 README.md file")
+    - Created data manipulation
+    - Run data manipulation in jupyter notebook
