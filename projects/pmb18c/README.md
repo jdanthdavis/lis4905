@@ -61,3 +61,53 @@
 	- Provide screenshots of Jupyter notebook
 	- Upload .ipynb file
 	- Create link in README file
+
+
+
+
+
+7. [week8 README.md](week8/README.md "My A7 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file
+
+
+
+
+
+8. [week9 README.md](week9/README.md "My A8 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file
+
+
+
+
+
+9. [week10 README.md](week10/README.md "My A9 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file
+
+
+
+
+
+1. [week11 README.md](week11/README.md "My A10 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file
+
+
+
+
+
+11. [week12 README.md](week12/README.md "My A11 README.md file")
+        - Backward engineer the provided screenshots
+        - Provide screenshots of Jupyter notebook
+        - Upload .ipynb file
+        - Create link in README file

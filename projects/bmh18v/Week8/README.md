@@ -1,8 +1,8 @@
 # LIS4905
 
-## Justin Davis
+## Bryan Humphries
 
-### Week #9 Requirements:
+### Week 8 Requirements:
 
 1. *Backward-engineer screenshot below:* README.md file should include the following items:
     1. *Screenshot of your Jupyter notebook (see below);*
@@ -16,19 +16,31 @@
 
 *.ipynb File*
 
-[tip_ipynb File](docs/data_manipulation2.ipynb)
+[ipynb File](docs/data_manipulation.ipynb)
 
-*Data Manipulation 2 Code*:
+*Week 8 Code*:
 
-[tip_py File](docs/data_mani2.py)
+[Code File](docs/week8_assignment.py)
+
 
 #### Assignment Screenshots:
 
-*Week # Screenshots*:
+*Week 8 Screenshots*:
 
-![data_mani1](img/data_mani1.png)
-![data_mani2](img/data_mani2.png)
-![data_mani3](img/data_mani3.png)
-![data_mani4](img/data_mani4.png)
-![data_mani5](img/data_mani5.png)
-![data_mani6](img/data_mani6.png)
+![Week 8 Data](img/screenshot1.png)
+
+![Week 8 Data](img/screenshot2.png)
+
+![Week 8 Data](img/screenshot3.png)
+
+![Week 8 Data](img/screenshot4.png)
+
+![Week 8 Data](img/screenshot5.png)
+
+![Week 8 Data](img/screenshot6.png)
+
+![Week 8 Data](img/screenshot7.png)
+
+![Week 8 Data](img/screenshot8.png)
+
+![Week 8 Data](img/screenshot9.png)
