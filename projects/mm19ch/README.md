@@ -38,3 +38,7 @@
 14. [Week 8 README.md](week8/README.md "My Week 8 README.md file")
     - Created data manipulation
     - Run data manipulation in jupyter notebook
+
+15. [Week 9 README.md](week9/README.md "My Week 9 README.md file")
+    - Added on to data manipulation file
+    - Ran newly added data through jupyter notebbok
