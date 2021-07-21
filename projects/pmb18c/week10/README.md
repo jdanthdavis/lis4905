@@ -6,6 +6,6 @@
 
 
 
-[A9 Jupyter Notebook Link](a9.ipynb)
+[A9 Jupyter Notebook Link](A9.ipynb)
 
 
