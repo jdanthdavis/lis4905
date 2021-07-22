@@ -9,10 +9,10 @@
 
 ### Week 11 Requirements:
 
-1. Create a Python program based upon the following requirements:
-    1. Use **all** four intrinsic Python Data Structures: List, Tuple, Set, Dictionary.
-    2. Randomly assign grades of "S" or "U" (satisfactory or
-       unsatisfactory) to each DIS member--of course, ***not*** including your ever-kind,
+1. **Create a Python program based upon the following requirements:**
+    1. Use **all** four intrinsic Python Data Structures: **List, Tuple, Set, Dictionary**.
+    2. Randomly assign grades of **"S"** or **"U"** (*satisfactory* or
+       *unsatisfactory*) to each DIS member--of course, ***not*** including your ever-kind,
        ever-caring, ever-compassionate instructor.  ;)
     3. Display code ***and*** results to **your** Bitbucket repo.
     
