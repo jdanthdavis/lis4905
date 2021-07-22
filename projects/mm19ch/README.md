@@ -42,3 +42,7 @@
 15. [Week 9 README.md](week9/README.md "My Week 9 README.md file")
     - Added on to data manipulation file
     - Ran newly added data through jupyter notebbok
+
+16. [Week 10 README.md](week10/README.md "My Week 10 README.md file")
+    - Created opencv py file
+    - Ran file through py and jupyter
