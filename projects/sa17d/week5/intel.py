@@ -42,32 +42,45 @@ y = len(df.columns)
 def artificial_intellegence():
 print("\n1. Print indexes")
 print(df.index)
+
 print("\n2. Print columns: \n")
 print(df.columns)
+
 print("\n3. Print data frame: \n")
 print(df)
+
 print("\n4. Print type: \n")
 print(type(df))
+
 print("\n5. Print attribute data types: \n")
 print(df.dtypes)
+
 print("\n6. Print Values (truncated list), in array format: \n")
 print(df.values)
+
 print("\n7. Print index of all DataFrame column names: \n")
 print(df.columns)
+
 print("\n8. Print DataFrame info: \n")
 df.info()
+
 print("\n9. Print *only* number of Dataframe rows: ")
 print(len(df))
+
 print("\n10. Print *only* number of Dataframe columns:")
 print(len(df.columns))
+
 print("\n11. Print number of DataFrame rows and columns: ")
 print(f"({x}, {y})")
+
 print("\n12. Print number of DataFrame elements: ")
 print(df.size)
-print("\n13. Cleaning Data:")
+
+print("\n13. Cleaning Data: ")
     all_cols = ['num_preg', 'gluc_concentrate', 'blood_press', 'triceps', 'insulin', 'bmi', 'pedigree', 'age', 'class' ]
     cols_to_norm = ['num_preg', 'gluc_concentrate', 'blood_press', 'triceps', 'insulin', 'bmi', 'pedigree']
     df[cols_to_norm] = df[cols_to_norm].apply( lambda x: (x - x.min()) / (x.min() - x.min()))
+
 print("\n14. Begin TensorFlow Analysis - create variables:")
     num_preg = tf.feature_column.numeric_column('num_preg')
     plasma_gluc = tf.feature_column.numeric_column('gluc_concentrate')
@@ -77,10 +90,10 @@ print("\n14. Begin TensorFlow Analysis - create variables:")
     bmi = tf.feature_column.numeric_column('bmi')
     diabetes_pedigree = tf.feature_column.numeric_column('pedigree')
     age = tf.feature_column.numeric_column('age')
+
 rint("\n15. Create (generic) categorial features (used for analysis):")
     assigned_group = tf.feature_column.categorial_column_with_vocabulary_list(
         'Group', ['A', 'B', 'C', 'D'])
-
     df['age'].hist(bins=20)
     pdr.legend(['diabetes occurrences per age group'])
     pdr.show()
