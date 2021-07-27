@@ -114,13 +114,13 @@
 
 11. [Week 11 README.md](Week_11/README.md "My Week 11 README.md file")
     - *Create a Python program based upon the following requirements:*
-    - Use *all* four intrinsic Python Data Structures: *List*, *Tuple*, *Set*, *Dictionary*.
-    - Randomly assign grades of *"S"* or *"U"* (satisfactory or unsatisfactory) to each DIS member.
-    - Display code *and* results to *your* Bitbucket repo.
+        - Use *all* four intrinsic Python Data Structures: *List*, *Tuple*, *Set*, *Dictionary*.
+        - Randomly assign grades of *"S"* or *"U"* (satisfactory or unsatisfactory) to each DIS member.
+        - Display code *and* results to *your* Bitbucket repo.
 
     - *Backward-engineer screenshot below:* README.md file should include the following items:
-    - *Screenshot of your Jupyter notebook (see below);*
-    - Upload .ipynb file and create link in README.md;
-        *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
-        - *Restart & Clear Output*
-        - *Restart & Run All*
+        - *Screenshot of your Jupyter notebook (see below);*
+        - Upload .ipynb file and create link in README.md;
+        - *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+            - *Restart & Clear Output*
+            - *Restart & Run All*
