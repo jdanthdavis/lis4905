@@ -29,11 +29,15 @@
 
 *.ipynb File for OpenCV2*
 
-[opencv2_ipynb File](docs/opencv2.ipynb)
+[opencv2_ipynb File](docs/openCV2_notebook.ipynb)
 
 *OpenCV2 Code*
 
 [opencv2_py File](docs/opencv2.py)
+
+*OpenCV2 Code for Jupyter Notebook*
+
+[opencv2_notebook File](docs/opencv2_notebook.py)
 
 #### Assignment Screenshots:
 
@@ -52,3 +56,15 @@
 ![OpenCV2](img/cv4.png)
 
 ![OpenCV2](img/cv5.png)
+
+![OpenCV2](img/cv6.png)
+
+![OpenCV2](img/cv7.png)
+
+![OpenCV2](img/cv8.png)
+
+![OpenCV2](img/cv9.png)
+
+![OpenCV2](img/cv10.png)
+
+![OpenCV2](img/cv11.png)

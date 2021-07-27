@@ -18,7 +18,7 @@ def get_requirements():
     print("***Research how to make it work using Jupyter Notebook***")
 
 def opencv2():
-    img_dog = cv.imread('photos/dog.jps')
+    img_dog = cv.imread('photos/dog.jpg')
     # read in images (return images as matrix of pixels)
     # also, could draw an existing image
     img_dog = cv.imread('photos/dog.jpg')
