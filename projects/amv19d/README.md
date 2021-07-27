@@ -16,7 +16,7 @@
 
 [comment]: <> (*Course Work Links:*)
 
-1. [Week 1 README.md](Week_1/README.md "My Week 1 README.md file")
+1. [Week_1 README.md](week_1/README.md "My Week 1 README.md file")
     - Introductions
     - Course Overview
     - *Meat as a team!*
@@ -30,7 +30,7 @@
         - include a *README.md* file, *with SOME CONTENT!*
     - *Fetch* or *pull* the updated repo
 
-2. [Week 2 README.md](Week_2/README.md "My Week 2 README.md file")
+2. [Week_2 README.md](week_2/README.md "My Week 2 README.md file")
     - Team Work: One File Requirements
     - *Chs. 1-5 in Python textbook.*
     - Development Installations:
@@ -45,7 +45,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-3. [Week 3 README.md](Week_3/README.md "My Week 3 README.md file")
+3. [Week_3 README.md](week_3/README.md "My Week 3 README.md file")
     - *Chs. 6-10 in Python textbook.*
     - *Backward-engineer screenshot:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook;*
@@ -54,7 +54,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-4. [Week 4 README.md](Week_4/README.md "My Week 4 README.md file")
+4. [Week_4 README.md](week_4/README.md "My Week 4 README.md file")
     - *Chs. 11-15 in Python textbook.*
     - *Backward-engineer screenshot:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook;*
@@ -63,7 +63,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-5. [Week 5 README.md](Week_5/README.md "My Week 5 README.md file")
+5. [Week_5 README.md](week_5/README.md "My Week 5 README.md file")
     - *Chs. 16-18 in Python textbook.*
     - *Backward-engineer screenshot below:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook (see below);*
@@ -72,7 +72,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-6. [Week 6 README.md](Week_6/README.md "My Week 6 README.md file")
+6. [Week_6 README.md](week_6/README.md "My Week 6 README.md file")
     - *Backward-engineer screenshot below:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook (see below);*
         - Upload .ipynb file and create link in README.md;
@@ -80,7 +80,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-7. [Week 7 README.md](Week_7/README.md "My Week 7 README.md file")
+7. [Week_7 README.md](week_7/README.md "My Week 7 README.md file")
     - *Backward-engineer screenshot below:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook (see below);*
         - Upload .ipynb file and create link in README.md;
@@ -88,7 +88,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-8. [Week 8 README.md](Week_8/README.md "My Week 8 README.md file")
+8. [Week_8 README.md](week_8/README.md "My Week 8 README.md file")
     - *Backward-engineer screenshot below:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook (see below);*
         - Upload .ipynb file and create link in README.md;
@@ -96,7 +96,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-9. [Week 9 README.md](Week_9/README.md "My Week 9 README.md file")
+9. [Week_9 README.md](week_9/README.md "My Week 9 README.md file")
     - *Backward-engineer screenshot below:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook (see below);*
         - Upload .ipynb file and create link in README.md;
@@ -104,7 +104,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-10. [Week 10 README.md](Week_10/README.md "My Week 10 README.md file")
+10. [Week_10 README.md](week_10/README.md "My Week 10 README.md file")
     - *Backward-engineer screenshot below:* README.md file should include the following items:
         - *Screenshot of your Jupyter notebook (see below);*
         - Upload .ipynb file and create link in README.md;
@@ -112,7 +112,7 @@
             -  *Restart & Clear Output*
             -  *Restart & Run All*
 
-11. [Week 11 README.md](Week_11/README.md "My Week 11 README.md file")
+11. [Week_11 README.md](week_11/README.md "My Week 11 README.md file")
     - *Create a Python program based upon the following requirements:*
         - Use *all* four intrinsic Python Data Structures: *List*, *Tuple*, *Set*, *Dictionary*.
         - Randomly assign grades of *"S"* or *"U"* (satisfactory or unsatisfactory) to each DIS member.
