@@ -30,5 +30,20 @@
 
 ![jupyter screenshot1](img/DISweek11shot7.png) 
 
+![jupyter screenshot1](img/DISweek11shot8.png)    
+
+![jupyter screenshot1](img/DISweek11shot9.png)    
+
+![jupyter screenshot1](img/DISweek11shot10.png)    
+
+![jupyter screenshot1](img/DISweek11shot11.png)    
+
+![jupyter screenshot1](img/DISweek11shot12.png) 
+
+![jupyter screenshot1](img/DISweek11shot13.png) 
+
+
 1. Link to Notebook
-[Notebook](documents/DISweek11.ipynb "Week 9 notebook")
+[Notebook](documents/DISweek11.ipynb "Week 11 notebook")
+
+[Notebook](documents/DISweek11part2.ipynb "Week 11 notebook")
