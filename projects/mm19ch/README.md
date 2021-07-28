@@ -48,5 +48,5 @@
     - Ran file through py and jupyter
 
 17. [Week 11 README.md](week10/README.md "My Week 10 README.md file")
-    - Created opencv py file
-    - Ran file through py and jupyter
+    - Created satisfactory and unsatisfactory program to grade students
+    - Created jupyter file to run 
