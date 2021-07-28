@@ -1,14 +1,10 @@
-![a10 screenshot 1](/projects/pmb18c/img/lis4905_a10_1.PNG)
-![a10 screenshot 2](/projects/pmb18c/img/lis4905_a10_2.PNG)
-![a10 screenshot 3](/projects/pmb18c/img/lis4905_a10_3.PNG)
-![a10 screenshot 4](/projects/pmb18c/img/lis4905_a10_4.PNG)
-![a10 screenshot 5](/projects/pmb18c/img/lis4905_a10_5.PNG)
-![a10 screenshot 6](/projects/pmb18c/img/lis4905_a10_6.PNG)
-![a10 screenshot 7](/projects/pmb18c/img/lis4905_a10_7.PNG)
-![a10 screenshot 8](/projects/pmb18c/img/lis4905_a10_8.PNG)
-![a10 screenshot 9](/projects/pmb18c/img/lis4905_a10_9.PNG)
+![wk11 screenshot 1](/projects/pmb18c/img/lis4905_wk11_1.PNG)
+![wk11 screenshot 2](/projects/pmb18c/img/lis4905_wk11_2.PNG)
+![wk11 screenshot 3](/projects/pmb18c/img/lis4905_wk11_3.PNG)
+![wk11 screenshot 4](/projects/pmb18c/img/lis4905_wk11_4.PNG)
+![wk11 screenshot 5](/projects/pmb18c/img/lis4905_wk11_5.PNG)
+![wk11 screenshot 5](/projects/pmb18c/img/lis4905_wk11_grade.PNG)
 
 
-[A10 Jupyter Notebook Link](a10.ipynb)
-
-
+[Week 11 notebook file 1](lis4905_wk11_grade.ipynb)
+[Week 11 notebook file 2](lis4905_wk11.ipynb)
