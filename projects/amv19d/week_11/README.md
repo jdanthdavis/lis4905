@@ -15,7 +15,7 @@
 
 
 ***WEEK 11 README***
-:-------------------------:|:-------------------------:
+
 ![jupyter screenshot1](img/DISweek11shot1.png)    
 
 ![jupyter screenshot1](img/DISweek11shot2.png)    
