@@ -106,6 +106,30 @@ Name				|Date		|Time
             b. *Restart & Run All*
         - Note: Always* run the .py files before trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
 
+10. [Week10 README.md](week10/README.md "My Week10 README.md file")
+     - *Backward-engineer screenshot below:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook (see below);*
+        - Upload .ipynb file and create link in README.md;
+        *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+            a. *Restart & Clear Output*
+            b. *Restart & Run All*
+        - Note: Always* run the .py files before trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+
+11. [Week11 README.md](week11/README.md "My Week11 README.md file")
+    - Create a Python program based upon the following requirements:
+
+    - Use all four intrinsic Python Data Structures: List, Tuple, Set, Dictionary.
+        Randomly assign grades of "S" or "U" (satisfactory or unsatisfactory) to each DIS member--of course, not including your ever-kind, ever-caring, ever-compassionate instructor. ;)
+        Display code and results to your Bitbucket repo.
+        Backward-engineer screenshot below: README.md file should include the following items:
+
+        Screenshot of your Jupyter notebook (see below);
+        Upload .ipynb file and create link in README.md;
+        - Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+            - a. Restart & Clear Output
+            - Restart & Run All
+        - Note: Always run the .py files before trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+
 
 
 
