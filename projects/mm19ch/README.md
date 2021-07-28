@@ -1,15 +1,15 @@
 # Mitchell Mujwit Project Directory
 
 *Log your name and time*
-<br>--------------------------------</br>
+--------------------------------
 
-1. Rachel Hester, 7:50PM on 5/16/21 </br>
-2. Phil Bomwan, 8:23pm on 5/16/21 </br>
-3. Justin Davis, 12:14PM on 5/17/21 </br>
-4. Sebastian Angel-Riano 5/17/21 </br>
-5. Alexander Boehm 12:47AM on 5/19/21 </br>
-6. Bryan Humphries 11:39 AM 5/20/21 </br>
-7. Andrew Vargas 12:11PM 5/20/21 </br>
+1. Rachel Hester, 7:50PM on 5/16/21
+2. Phil Bomwan, 8:23pm on 5/16/21
+3. Justin Davis, 12:14PM on 5/17/21
+4. Sebastian Angel-Riano 5/17/21
+5. Alexander Boehm 12:47AM on 5/19/21
+6. Bryan Humphries 11:39 AM 5/20/21
+7. Andrew Vargas 12:11PM 5/20/21
 
 8. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
     - Create tip calculator py
@@ -44,5 +44,9 @@
     - Ran newly added data through jupyter notebbok
 
 16. [Week 10 README.md](week10/README.md "My Week 10 README.md file")
+    - Created opencv py file
+    - Ran file through py and jupyter
+
+17. [Week 11 README.md](week10/README.md "My Week 10 README.md file")
     - Created opencv py file
     - Ran file through py and jupyter
