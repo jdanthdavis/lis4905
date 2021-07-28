@@ -6,5 +6,5 @@
 ![wk11 screenshot 5](/projects/pmb18c/img/lis4905_wk11_grade.PNG)
 
 
-[Week 11 notebook file 1](lis4905_wk11_grade.ipynb)
+[Week 11 notebook file 1](lis4905_wk10_grade.ipynb)
 [Week 11 notebook file 2](lis4905_wk11.ipynb)
