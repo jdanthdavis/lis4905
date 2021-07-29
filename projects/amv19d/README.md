@@ -3,14 +3,16 @@
 ## Andrew Vargas
 
 *Log your visit*
-    Name |       Date |  Time|
-1. Rachel Hester		5/14/21		4:26PM
-2. Mitchell Mujwit     		5/16/21 	2:49PM
-3. Justin Davis        		5/17/21   	12:14PM
-4. Sebastian Angel-Riano 	5/17/21    	15:57
-5. Alexander Boehm 		5/19/21 	12:50AM
-6. Bryan Humphries		5/20/21		11:39 AM
-7. Andrew Vargas      5/20/21   12:12PM
+
+|       Name         |       Date       |       Time       |
+|----------------|-------------------------------|-----------------------------|
+|Rachel Hester      |       5/14/21       |       4:26PM       |
+|Mitchell Mujwit      |       5/16/21       |       2:49PM       |
+|Justin Davis       |       5/17/21       |       12:14PM       |
+|Sebastian Angel-Riano       |       5/17/21       |       3:57PM       |
+|Alexander Boehm       |       5/19/21       |       12:50AM       |
+|Bryan Humphries      |       5/20/2021       |       11:39AM       |
+|Andrew Vargas       |       5/20/2021       |       12:12PM       |
 
 ### LIS4905 Requirements:
 
