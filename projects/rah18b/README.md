@@ -23,8 +23,8 @@ Log your visit here:
 |Justin Davis       |       5/17/21       |       12:15PM       |
 |Sebastian Angel-Riano       |       5/17/21       |       3:57PM       |
 |Alexander Boehm       |       5/17/21       |       12:45AM      |
-|Bryan Humphries      |       5/20/2021       |       11:40AM      |
-|Andrew Vargas       |       5/20/2021       |       12:12:PM       |
+|Bryan Humphries      |       5/20/21       |       11:40AM      |
+|Andrew Vargas       |       5/20/21       |       12:12:PM       |
 
 ### LIS4905 Requirements:
 

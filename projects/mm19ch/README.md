@@ -9,8 +9,8 @@
 |Justin Davis       |       5/17/21       |       12:14PM       |
 |Sebastian Angel-Riano       |       5/17/21       |       1:14PM       |
 |Alexander Boehm       |       5/19/21       |       12:47AM       |
-|Bryan Humphries      |       5/20/2021       |       11:39AM       |
-|Andrew Vargas       |       5/20/2021       |       12:11PM       |
+|Bryan Humphries      |       5/20/21       |       11:39AM       |
+|Andrew Vargas       |       5/20/21       |       12:11PM       |
 
 8. [Week 2 README.md](Week2/README.md "My Week 2 README.md file")
     - Create tip calculator py

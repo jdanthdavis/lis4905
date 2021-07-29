@@ -11,8 +11,8 @@
 |Mitchell Mujwit       |       5/19/21       |       5:50PM       |
 |Sebastian Angel-Riano       |       5/19/21       |       2:57PM       |
 |Alexander Boehm       |       5/17/21       |       12:47AM       |
-|Justin Davis       |       5/20/2021       |       11:50AM       |
-|Andrew Vargas       |       5/21/2021       |       12:10PM       |
+|Justin Davis       |       5/20/21       |       11:50AM       |
+|Andrew Vargas       |       5/21/21       |       12:10PM       |
 
 ### LIS4905 Requirements:
 

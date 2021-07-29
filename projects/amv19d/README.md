@@ -11,8 +11,8 @@
 |Justin Davis       |       5/17/21       |       12:14PM       |
 |Sebastian Angel-Riano       |       5/17/21       |       3:57PM       |
 |Alexander Boehm       |       5/19/21       |       12:50AM       |
-|Bryan Humphries      |       5/20/2021       |       11:39AM       |
-|Andrew Vargas       |       5/20/2021       |       12:12PM       |
+|Bryan Humphries      |       5/20/21       |       11:39AM       |
+|Andrew Vargas       |       5/20/21       |       12:12PM       |
 
 ### LIS4905 Requirements:
 
