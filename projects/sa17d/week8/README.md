@@ -14,25 +14,38 @@
 
 *.ipynb File*
 
-[data_manipulation_ipynb File]()
+[data_manipulation_ipynb File](data_manipulation.ipynb)
 
 *Data Manipulation Code*:
 
-[data_manipulation File]()
+[data_manipulation File](data_manipulation.py)
 
 #### Assignment Screenshots:
 
 *Week #6 Screenshots*:
 
-![data_mani1]()
-![data_mani2]()
-![data_mani3]()
-![data_mani4]()
-![data_mani5]()
-![data_mani6]()
-![data_mani7]()
-![data_mani8]()
-![data_mani9]()
-![data_mani10]()
-![data_mani11]()
-![data_mani12]()
+![data_mani1](img/data_mani1.png)
+
+![data_mani2](img/data_mani2.png)
+
+![data_mani3](img/data_mani3.png)
+
+![data_mani4](img/data_mani4.png)
+
+![data_mani5](img/data_mani5.png)
+
+![data_mani6](img/data_mani6.png)
+
+![data_mani7](img/data_mani7.png)
+
+![data_mani8](img/data_mani8.png)
+
+![data_mani8](img/data_mani8.png)
+
+![data_mani9](img/data_mani9.png)
+
+![data_mani10](img/data_mani10.png)
+
+![data_mani11](img/data_mani11.png)
+
+![data_mani12](img/data_mani12.png)

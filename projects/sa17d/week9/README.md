@@ -1,4 +1,4 @@
-# ![SAR](../img/favicon.png)
+# ![SAR](img/favicon.png)
 
 ### Week #9 Requirements:
 
@@ -14,19 +14,19 @@
 
 *.ipynb File*
 
-[tip_ipynb File](data_manipulation2.ipynb)
+[tip_ipynb File](docs/data_manipulation2.ipynb)
 
 *Data Manipulation 2 Code*:
 
-[tip_py File](data_mani2.py)
+[tip_py File](docs/data_mani2.py)
 
 #### Assignment Screenshots:
 
 *Week # Screenshots*:
 
-![data_mani1]()
-![data_mani2]()
-![data_mani3]()
-![data_mani4]()
-![data_mani5]()
-![data_mani6]()
+![data_mani1](img/data_mani1.png)
+![data_mani2](img/data_mani2.png)
+![data_mani3](img/data_mani3.png)
+![data_mani4](img/data_mani4.png)
+![data_mani5](img/data_mani5.png)
+![data_mani6](img/data_mani6.png)
