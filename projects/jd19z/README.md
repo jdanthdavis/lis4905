@@ -12,8 +12,21 @@
 |Justin Davis             |5/20/2021|11:50AM
 |Andrew Vargas           |5/21/2021|12:10PM
 
+|       Name         |       Date       |       Time       |
+|----------------|-------------------------------|-----------------------------|
+|Phil Bowman       |       5/17/21       |       7:29PM       |
+|Rachel Hester       |       5/17/21       |       5:49PM       |
+|Mitchell Mujwit       |       5/19/21       |       5:50PM       |
+|Sebastian Angel-Riano       |       5/19/21       |       2:57PM       |
+|Alexander Boehm       |       5/17/21       |       12:47AM       |
+|Justin Davis       |       5/20/2021       |       11:50AM       |
+|Andrew Vargas       |       5/21/2021       |       12:10PM       |
+
 
 *Log your visit*
+
+|       Name         |       Date       |       Time       |
+|----------------|-------------------------------|-----------------------------
     Name |       Date |  Time|
 1. Rachel Hester 5/17/21 1:56PM
 2. Bryan Humphries 5/17/21 3:20PM
