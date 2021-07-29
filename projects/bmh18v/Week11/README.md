@@ -2,7 +2,7 @@
 
 ## Bryan Humphries
 
-### Week 10 Requirements:
+### Week 11 Requirements:
 
 1. *Backward-engineer screenshot below:* README.md file should include the following items:
     1. *Screenshot of your Jupyter notebook (see below);*
@@ -14,32 +14,41 @@
 
 #### Assignment Links:
 
-*.ipynb File*
+*.ipynb File for Grading Program*
 
-[ipynb File](docs/opencv.ipynb)
+[ipynb File](docs/gradeScores.ipynb)
 
-*Week 10 Code*:
+*Grading Program Python Code*
 
-[Code File](docs/week10_assignment.py)
+[Grading CS Code File](docs/gradeScoresFile.py)
 
+*.ipynb OpenCV2 Program*
+
+[ipynb File](docs/imgFun.ipynb)
+
+*OpenCV2 Python Code*
+
+[OpenCV2 Code](docs/openCV2.py)
 
 #### Assignment Screenshots:
 
-*Week 10 Screenshots*:
+*Week 11 Screenshots*:
 
-![Week 10 Code](img/codepic1.png)
+![Week 11 Code](img/gradeScores.png)
 
-![Week 10 Code](img/codepic2.png)
+![Week 11 Picture](img/imgFun1.png)
 
-![Week 10 Code](img/codepic3.png)
+![Week 11 Picture](img/imgFun2.png)
 
-![Week 10 Picture](img/openCV1.png)
+![Week 11 Picture](img/imgFun3.png)
 
-![Week 10 Picture](img/openCV2.png)
+![Week 11 Picture](img/imgFun4.png)
 
-![Week 10 Picture](img/openCV3.png)
+![Week 11 Picture](img/imgFun5.png)
 
-![Week 10 Picture](img/openCV4.png)
+![Week 11 Picture](img/imgFun6.png)
 
-![Week 10 Picture](img/openCV5.png)
+![Week 11 Picture](img/imgFun7.png)
+
+![Week 11 Picture](img/imgFun8.png)
 
