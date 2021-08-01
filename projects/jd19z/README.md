@@ -3,14 +3,16 @@
 ## Justin Davis
 
 *Log your visit*
-    Name |       Date |  Time|
-1. Rachel Hester 5/17/21 1:56PM
-2. Bryan Humphries 5/17/21 3:20PM
-3. Mitchell Mujwit 5/19/21 5:50PM
-4. Sebastian Angel-Riano 5/17/21   15:57
-5. Alexander Boehm 5/19/21 12:48 AM
-6. Phil Bowman 5/19/21 7:30PM
-7. Andrew Vargas 5/20/21 12:07PM
+
+|       Name         |       Date       |       Time       |
+|----------------|-------------------------------|-----------------------------|
+|Rachel Hester      |       5/17/21       |       1:56PM       |
+|Bryan Humphries      |       5/17/21       |       3:20PM       |
+|Mitchell Mujwit       |       5/19/21       |       5:50PM       |
+|Sebastian Angel-Riano       |       5/17/21       |       3:57PM       |
+|Alexander Boehm       |       5/19/21       |       12:48AM       |
+|Phil Bowman       |       5/29/21       |       7:30PM       |
+|Andrew Vargas       |       5/20/21       |       12:07PM       |
 
 ### LIS4905 Requirements:
 
@@ -113,7 +115,14 @@
             -  *Restart & Run All*
 
 11. [Week 11 README.md](Week11/README.md "My Week 11 README.md file")
-    - N/A
+    - *Create a Python program based upon the following requirements:*
+    - Use *all* four intrinsic Python Data Structures: *List*, *Tuple*, *Set*, *Dictionary*.
+    - Randomly assign grades of *"S"* or *"U"* (satisfactory or unsatisfactory) to each DIS member.
+    - Display code *and* results to *your* Bitbucket repo.
 
-12. [Week 12 README.md](Week12/README.md "My Week 12 README.md file")
-    - N/A
+    - *Backward-engineer screenshot below:* README.md file should include the following items:
+    - *Screenshot of your Jupyter notebook (see below);*
+    - Upload .ipynb file and create link in README.md;
+        *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+        - *Restart & Clear Output*
+        - *Restart & Run All*

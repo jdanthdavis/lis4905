@@ -16,20 +16,22 @@
 
 *.ipynb File*
 
-[opencv_ipynb File](docs/opencv.ipynb)
+[opencv_ipynb File](docs/opencv_note.ipynb)
 
 *OpenCV Code*:
 
 [opencv File](docs/opencv.py)
+[opencv File for Notebook](docs/opencv_notebook.py)
 
 #### Assignment Screenshots:
 
 *Week # Screenshots*:
 
-![open_cv1](img/opencv1.png)
-![open_cv2](img/opencv2.png)
-![open_cv3](img/opencv3.png)
-![open_cv4](img/opencv4.png)
-![dogs](img/dog_resizes.png)
-![dog_videos](img/dog_gifs.png)
-![boxes](img/colors.png)
+![open_cv1](img/cvNote1.png)
+![open_cv1](img/cvNote2.png)
+![open_cv1](img/cvNote3.png)
+![open_cv1](img/cvNote4.png)
+![open_cv1](img/cvNote5.png)
+![open_cv1](img/cvNote6.png)
+![open_cv1](img/cvNote7.png)
+![open_cv1](img/cvNote8.png)

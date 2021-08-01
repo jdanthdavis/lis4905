@@ -14,16 +14,17 @@
 
 *Week 1 Log*
 
-Log your visit here: 
-Name				|Date		|Time
--------------------------------------------------------
-1. Phil Bowman			2021-05-15	2:29pm
-2. Mitchell Mujwit      5/16/21   2:49PM
-3. Justin Davis         5/17/21     12:15PM
-4. Sebastian Angel-Riano 5/17/21    15:57
-5. Alexander Boehm       5/17/21    12:45AM
-6. Bryan Humphries		2/20/21		11:40AM
-7. Andrew Vargas		5/20/21		12:12:PM
+Log your visit here:
+
+|       Name         |       Date       |       Time       |
+|----------------|-------------------------------|-----------------------------|
+|Phil Bowman      |       5/15/21       |       2:29PM       |
+|Mitchell Mujwit      |       5/16/21       |       2:49PM       |
+|Justin Davis       |       5/17/21       |       12:15PM       |
+|Sebastian Angel-Riano       |       5/17/21       |       3:57PM       |
+|Alexander Boehm       |       5/17/21       |       12:45AM      |
+|Bryan Humphries      |       5/20/21       |       11:40AM      |
+|Andrew Vargas       |       5/20/21       |       12:12:PM       |
 
 ### LIS4905 Requirements:
 
@@ -105,6 +106,30 @@ Name				|Date		|Time
             a. *Restart & Clear Output*
             b. *Restart & Run All*
         - Note: Always* run the .py files before trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+
+10. [Week10 README.md](week10/README.md "My Week10 README.md file")
+     - *Backward-engineer screenshot below:* README.md file should include the following items:
+        - *Screenshot of your Jupyter notebook (see below);*
+        - Upload .ipynb file and create link in README.md;
+        *NOTE:* Before uploading .ipynb file, be sure to do the following actions from *Kernal* menu:
+            a. *Restart & Clear Output*
+            b. *Restart & Run All*
+        - Note: Always* run the .py files before trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
+
+11. [Week11 README.md](week11/README.md "My Week11 README.md file")
+    - Create a Python program based upon the following requirements:
+
+    - Use all four intrinsic Python Data Structures: List, Tuple, Set, Dictionary.
+        Randomly assign grades of "S" or "U" (satisfactory or unsatisfactory) to each DIS member--of course, not including your ever-kind, ever-caring, ever-compassionate instructor. ;)
+        Display code and results to your Bitbucket repo.
+        Backward-engineer screenshot below: README.md file should include the following items:
+
+        Screenshot of your Jupyter notebook (see below);
+        Upload .ipynb file and create link in README.md;
+        - Note: Before uploading .ipynb file, be sure to do the following actions from Kernal menu:
+            - a. Restart & Clear Output
+            - Restart & Run All
+        - Note: Always run the .py files before trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!
 
 
 

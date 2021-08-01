@@ -9,4 +9,22 @@
 
 ### Week 11 Requirements:
 
-1. todo...
+1. **Create a Python program based upon the following requirements:**
+    1. Use **all** four intrinsic Python Data Structures: **List, Tuple, Set, Dictionary**.
+    2. Randomly assign grades of **"S"** or **"U"** (*satisfactory* or
+       *unsatisfactory*) to each DIS member--of course, ***not*** including your ever-kind,
+       ever-caring, ever-compassionate instructor.  ;)
+    3. Display code ***and*** results to **your** Bitbucket repo.
+    
+2. **Backward-engineer screenshot below:** README.md file should include the following items:
+    1. **Screenshot of your Jupyter notebook (see below);**
+    2. Upload .ipynb file and create link in README.md;  
+    **Note:** *Before* uploading .ipynb file, *be sure* to do the following actions from **Kernal** menu:  
+        a. **Restart & Clear Output**  
+        b. **Restart & Run All**  
+    
+    **Note:** **Always** run the .py files *before* trying to create a Jupyter notebook using the code from the .py files. If the .py files won't run, neither will the notebook!  
+ 
+![Week11 Requirements](../img/week11.png "Week11 Requirements")
+
+3. [Week12 Requirements](../week12/README.md "Week12")
